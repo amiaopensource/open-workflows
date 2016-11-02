@@ -18,7 +18,9 @@ List of open workflows and resources for a/v archiving. Please contribute!
 - [analog-inspection](https://github.com/amiaopensource/analog-inspection): List of analog media inspection templates/forms.
 - [A/V Artifact Atlas](http://avaa.bavc.org/artifactatlas/index.php/A/V_Artifact_Atlas): For use in the identification and definition of the technical issues and anomalies that can afflict audio and video signals.
 - [audio-digitization-toolkit](https://github.com/todrobbins/audio-digitization-toolkit): A list of resources for setting up an audio digitization workflow  
-- [cable-bible](https://github.com/amiaopensource/cable-bible): A guide to cables and connectors used for audiovisual tech  
+- [cable-bible](https://github.com/amiaopensource/cable-bible): A guide to cables and connectors used for audiovisual tech
+- [Community Owned digital Preservation Tool Registry (COPTR)](http://coptr.digipres.org/Main_Page): COPTR describes tools useful for long term digital presesrvation and acts primarily as a finding and evaluation tool to help practitioners find the tools they need to preserve digital data.
+- [Digital POWRR Tool Grid](http://digitalpowrr.niu.edu/tool-grid/) 
 - [Libraries Sharing Code](https://wiki.code4lib.org/Libraries_Sharing_Code): Wiki list of libraries sharing their code on Github or on other open repositories.
 - [media-id-posters](https://github.com/ablwr/media-id-posters): Visualized summaries of physical objects for a/v archivists
 
