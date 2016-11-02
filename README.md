@@ -34,6 +34,7 @@ List of open workflows and resources for a/v archiving. Please contribute!
 ## Workflows
 
 - [Archivematica Development Wiki](https://wiki.archivematica.org/Main_Page)
+- [Collective Access Community: Guides and Workflows](http://collectiveaccesscommunity.org/category/guides/)
 - [Library Workflow Exchange](http://www.libraryworkflowexchange.org/): A site designed to help librarians share workflows and best practices across institutions
 - [Rockefeller Center Archives transfer_workflow](https://github.com/RockefellerArchiveCenter/transfer_workflow): Digital media transfer workflow documentation
 - [XFR Collective](https://github.com/XFRCollective)
