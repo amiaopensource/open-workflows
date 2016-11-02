@@ -2,6 +2,9 @@
 
 List of open workflows and resources for a/v archiving. Please contribute!
 
+## Documentation
+
+[York University Preservation Documentation](https://github.com/yorkulibraries/preservation_documentation): Version controlled draft versions of York University Libraries' digital preservation policy and documentation.  
 
 ## Resources
 [audio-digitization-toolkit](https://github.com/todrobbins/audio-digitization-toolkit): A list of resources for setting up an audio digitization workflow  
