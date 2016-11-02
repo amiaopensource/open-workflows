@@ -4,8 +4,14 @@ List of open workflows and resources for a/v archiving. Please contribute!
 
 ## Documentation
 
+- [Archivematica Development Wiki](https://wiki.archivematica.org/Main_Page)
+- [Collective Access Community: Guides and Workflows](http://collectiveaccesscommunity.org/category/guides/)
+- [Library Workflow Exchange](http://www.libraryworkflowexchange.org/): A site designed to help librarians share workflows and best practices across institutions
+- [Format Migrations at Harvard](http://blogs.loc.gov/thesignal/2015/04/format-migrations-at-harvard-library-an-ndsr-project-update/)
+- [UCLA Quality Control Workflow](https://www.library.ucla.edu/sites/default/files/Guidelines_MetadataQualityControl.pdf): (PDF)
 - [University of Michigan ICPSR](http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/preservation/index.html): "This guide describes digital preservation practices at ICPSR, the primary objective of which is to ensure long-term access to the more than 500,000 files in our collection."
 - [York University Preservation Documentation](https://github.com/yorkulibraries/preservation_documentation): Version controlled draft versions of York University Libraries' digital preservation policy and documentation.  
+- [XFR Collective](https://github.com/XFRCollective)
 
 ## Resources
 
@@ -22,7 +28,10 @@ List of open workflows and resources for a/v archiving. Please contribute!
 - [CUNY mediamicroservices](https://github.com/mediamicroservices/mm): Suite of bash scripts for a/v archiving  
 - [ffmprovisr](https://github.com/amiaopensource/ffmprovisr): Repository of useful FFmpeg command lines for archivists!  
 - [ucsb-src-microservices](https://github.com/brnco/ucsb-src-microservices): post-processing scripts we use at UCSB Special Research Collections AVLab
-- [Manuscripts and Archives, Yale University Libraries](https://github.com/yalemssa)
+- [U.S. National Archives](https://github.com/usnationalarchives)
+- [Yale University Libraries](https://github.com/yalemssa): Manuscripts and Archives Github
+- [Rockefeller Center Archives transfer_workflow](https://github.com/RockefellerArchiveCenter/transfer_workflow): Digital media transfer workflow documentation
+- [WGBH preservation-workflows](https://github.com/WGBH/preservation-workflow): Useful scripts to help automate common WGBH Media Library and Archive digital preservation workflows into a single preserve.rb Ruby script.
 
 ## Tools
 
@@ -30,11 +39,3 @@ List of open workflows and resources for a/v archiving. Please contribute!
 - [MediaConch](https://github.com/MediaArea/MediaConch_SourceCode)
 - [qctools](github.com/bavc/qctools)
 - [vrecord](https://github.com/amiaopensource/vrecord)
-
-## Workflows
-
-- [Archivematica Development Wiki](https://wiki.archivematica.org/Main_Page)
-- [Collective Access Community: Guides and Workflows](http://collectiveaccesscommunity.org/category/guides/)
-- [Library Workflow Exchange](http://www.libraryworkflowexchange.org/): A site designed to help librarians share workflows and best practices across institutions
-- [Rockefeller Center Archives transfer_workflow](https://github.com/RockefellerArchiveCenter/transfer_workflow): Digital media transfer workflow documentation
-- [XFR Collective](https://github.com/XFRCollective)
