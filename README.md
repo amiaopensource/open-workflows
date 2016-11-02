@@ -7,6 +7,7 @@ List of open workflows and resources for a/v archiving. Please contribute!
 - [York University Preservation Documentation](https://github.com/yorkulibraries/preservation_documentation): Version controlled draft versions of York University Libraries' digital preservation policy and documentation.  
 
 ## Resources
+- [analog-inspection](https://github.com/amiaopensource/analog-inspection): List of analog media inspection templates/forms.
 - [audio-digitization-toolkit](https://github.com/todrobbins/audio-digitization-toolkit): A list of resources for setting up an audio digitization workflow  
 - [cable-bible](https://github.com/amiaopensource/cable-bible): A guide to cables and connectors used for audiovisual tech  
 - [media-id-posters](https://github.com/ablwr/media-id-posters): Visualized summaries of physical objects for a/v archivists
