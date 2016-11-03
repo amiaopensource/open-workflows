@@ -45,7 +45,7 @@ List of open workflows and resources for a/v archiving. Please contribute!
 
 - [Audacity](http://www.audacityteam.org/)
 - [BWF MetaEdit](http://bwfmetaedit.sourceforge.net/)
-- [MediaInfo](https://mediaarea.net/en/MediaInfo)
 - [MediaConch](https://github.com/MediaArea/MediaConch_SourceCode)
+- [MediaInfo](https://mediaarea.net/en/MediaInfo)
 - [qctools](github.com/bavc/qctools)
 - [vrecord](https://github.com/amiaopensource/vrecord)
