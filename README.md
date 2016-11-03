@@ -13,6 +13,7 @@ List of open workflows and resources for a/v archiving. Please contribute!
 - [University of Michigan ICPSR](http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/preservation/index.html): "This guide describes digital preservation practices at ICPSR, the primary objective of which is to ensure long-term access to the more than 500,000 files in our collection."
 - [York University Preservation Documentation](https://github.com/yorkulibraries/preservation_documentation): Version controlled draft versions of York University Libraries' digital preservation policy and documentation.  
 - [XFR Collective](https://github.com/XFRCollective)
+- [Digital Processing, Bentley Historical Library](https://sites.google.com/a/umich.edu/bhl-archival-curation/processing-archival-collections/08-digital-processing): Workflow for ingesting digital objects at the Bentley Historial Library.
 
 ## Resources
 
@@ -21,7 +22,7 @@ List of open workflows and resources for a/v archiving. Please contribute!
 - [audio-digitization-toolkit](https://github.com/todrobbins/audio-digitization-toolkit): A list of resources for setting up an audio digitization workflow  
 - [cable-bible](https://github.com/amiaopensource/cable-bible): A guide to cables and connectors used for audiovisual tech
 - [Community Owned digital Preservation Tool Registry (COPTR)](http://coptr.digipres.org/Main_Page): COPTR describes tools useful for long term digital presesrvation and acts primarily as a finding and evaluation tool to help practitioners find the tools they need to preserve digital data.
-- [Digital POWRR Tool Grid](http://digitalpowrr.niu.edu/tool-grid/) 
+- [Digital POWRR Tool Grid](http://digitalpowrr.niu.edu/tool-grid/)
 - [Libraries Sharing Code](https://wiki.code4lib.org/Libraries_Sharing_Code): Wiki list of libraries sharing their code on Github or on other open repositories.
 - [media-id-posters](https://github.com/ablwr/media-id-posters): Visualized summaries of physical objects for a/v archivists
 - [No Time To Wait! Symposium](https://github.com/preforma/notimetowait): Documentation around conference including slides and videos on talks focused around Matroska and FFV1 workflows
@@ -37,6 +38,7 @@ List of open workflows and resources for a/v archiving. Please contribute!
 - [Rockefeller Center Archives transfer_workflow](https://github.com/RockefellerArchiveCenter/transfer_workflow): Digital media transfer workflow documentation
 - [WGBH preservation-workflows](https://github.com/WGBH/preservation-workflow): Useful scripts to help automate common WGBH Media Library and Archive digital preservation workflows into a single preserve.rb Ruby script.
 - [Puget Sound and Vision Audio Scripts](https://github.com/pugetsoundandvision/audiotools): Bash scripts/documentation used at University of Washington for moving from a digitized WAV file to a package including BWF, TIFFs and derivatives.
+- [National Library of New Zealand (NLNZ)](https://github.com/NLNZDigitalPreservation): Scripts for generating METS records, Rosetta-compliant SIPs, etc.
 
 ## Tools
 
