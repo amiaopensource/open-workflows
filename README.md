@@ -7,13 +7,13 @@ List of open workflows and resources for a/v archiving. Please contribute!
 - [Andy Warhol Museum Digital Strategy](https://github.com/thewarholmuseum/digital-strategy/): A versioned digital strategy repository for The Andy Warhol Museum
 - [Archivematica Development Wiki](https://wiki.archivematica.org/Main_Page)
 - [Collective Access Community: Guides and Workflows](http://collectiveaccesscommunity.org/category/guides/)
-- [Library Workflow Exchange](http://www.libraryworkflowexchange.org/): A site designed to help librarians share workflows and best practices across institutions
+- [Digital Processing, Bentley Historical Library](https://sites.google.com/a/umich.edu/bhl-archival-curation/processing-archival-collections/08-digital-processing): Workflow for ingesting digital objects at the Bentley Historial Library.
 - [Format Migrations at Harvard](http://blogs.loc.gov/thesignal/2015/04/format-migrations-at-harvard-library-an-ndsr-project-update/)
+- [Library Workflow Exchange](http://www.libraryworkflowexchange.org/): A site designed to help librarians share workflows and best practices across institutions
 - [UCLA Quality Control Workflow](https://www.library.ucla.edu/sites/default/files/Guidelines_MetadataQualityControl.pdf): (PDF)
 - [University of Michigan ICPSR](http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/preservation/index.html): "This guide describes digital preservation practices at ICPSR, the primary objective of which is to ensure long-term access to the more than 500,000 files in our collection."
-- [York University Preservation Documentation](https://github.com/yorkulibraries/preservation_documentation): Version controlled draft versions of York University Libraries' digital preservation policy and documentation.  
 - [XFR Collective](https://github.com/XFRCollective)
-- [Digital Processing, Bentley Historical Library](https://sites.google.com/a/umich.edu/bhl-archival-curation/processing-archival-collections/08-digital-processing): Workflow for ingesting digital objects at the Bentley Historial Library.
+- [York University Preservation Documentation](https://github.com/yorkulibraries/preservation_documentation): Version controlled draft versions of York University Libraries' digital preservation policy and documentation.  
 
 ## Resources
 
@@ -32,20 +32,20 @@ List of open workflows and resources for a/v archiving. Please contribute!
 - [Carnegie Hall](https://github.com/CarnegieHall)
 - [CUNY mediamicroservices](https://github.com/mediamicroservices/mm): Suite of bash scripts for a/v archiving  
 - [ffmprovisr](https://github.com/amiaopensource/ffmprovisr): Repository of useful FFmpeg command lines for archivists!  
+- [National Library of New Zealand (NLNZ)](https://github.com/NLNZDigitalPreservation): Scripts for generating METS records, Rosetta-compliant SIPs, etc.
 - [New York Times video microservices](http://open.blogs.nytimes.com/2016/11/01/using-microservices-to-encode-and-publish-videos-at-the-new-york-times/): Documentation and links to services scripts
+- [Puget Sound and Vision Audio Scripts](https://github.com/pugetsoundandvision/audiotools): Bash scripts/documentation used at University of Washington for moving from a digitized WAV file to a package including BWF, TIFFs and derivatives.
+- [Rockefeller Center Archives transfer_workflow](https://github.com/RockefellerArchiveCenter/transfer_workflow): Digital media transfer workflow documentation
 - [ucsb-src-microservices](https://github.com/brnco/ucsb-src-microservices): post-processing scripts we use at UCSB Special Research Collections AVLab
 - [U.S. National Archives](https://github.com/usnationalarchives)
-- [Yale University Libraries](https://github.com/yalemssa): Manuscripts and Archives Github
-- [Rockefeller Center Archives transfer_workflow](https://github.com/RockefellerArchiveCenter/transfer_workflow): Digital media transfer workflow documentation
 - [WGBH preservation-workflows](https://github.com/WGBH/preservation-workflow): Useful scripts to help automate common WGBH Media Library and Archive digital preservation workflows into a single preserve.rb Ruby script.
-- [Puget Sound and Vision Audio Scripts](https://github.com/pugetsoundandvision/audiotools): Bash scripts/documentation used at University of Washington for moving from a digitized WAV file to a package including BWF, TIFFs and derivatives.
-- [National Library of New Zealand (NLNZ)](https://github.com/NLNZDigitalPreservation): Scripts for generating METS records, Rosetta-compliant SIPs, etc.
+- [Yale University Libraries](https://github.com/yalemssa): Manuscripts and Archives Github
 
 ## Tools
 
+- [Audacity](http://www.audacityteam.org/)
+- [BWF MetaEdit](http://bwfmetaedit.sourceforge.net/)
 - [MediaInfo](https://mediaarea.net/en/MediaInfo)
 - [MediaConch](https://github.com/MediaArea/MediaConch_SourceCode)
 - [qctools](github.com/bavc/qctools)
 - [vrecord](https://github.com/amiaopensource/vrecord)
-- [Audacity](http://www.audacityteam.org/)
-- [BWF MetaEdit](http://bwfmetaedit.sourceforge.net/)
