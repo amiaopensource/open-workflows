@@ -45,3 +45,4 @@ List of open workflows and resources for a/v archiving. Please contribute!
 - [qctools](github.com/bavc/qctools)
 - [vrecord](https://github.com/amiaopensource/vrecord)
 - [Audacity](http://www.audacityteam.org/)
+- [BWF MetaEdit](http://bwfmetaedit.sourceforge.net/)
