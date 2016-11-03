@@ -24,6 +24,7 @@ List of open workflows and resources for a/v archiving. Please contribute!
 - [Digital POWRR Tool Grid](http://digitalpowrr.niu.edu/tool-grid/) 
 - [Libraries Sharing Code](https://wiki.code4lib.org/Libraries_Sharing_Code): Wiki list of libraries sharing their code on Github or on other open repositories.
 - [media-id-posters](https://github.com/ablwr/media-id-posters): Visualized summaries of physical objects for a/v archivists
+- [No Time To Wait! Symposium](https://github.com/preforma/notimetowait): Documentation around conference including slides and videos on talks focused around Matroska and FFV1 workflows
 
 ## Scripts
 
