@@ -36,6 +36,7 @@ List of open workflows and resources for a/v archiving. Please contribute!
 - [Yale University Libraries](https://github.com/yalemssa): Manuscripts and Archives Github
 - [Rockefeller Center Archives transfer_workflow](https://github.com/RockefellerArchiveCenter/transfer_workflow): Digital media transfer workflow documentation
 - [WGBH preservation-workflows](https://github.com/WGBH/preservation-workflow): Useful scripts to help automate common WGBH Media Library and Archive digital preservation workflows into a single preserve.rb Ruby script.
+- [Puget Sound and Vision Audio Scripts](https://github.com/pugetsoundandvision/audiotools): Bash scripts/documentation used at University of Washington for moving from a digitized WAV file to a package including BWF, TIFFs and derivatives.
 
 ## Tools
 
@@ -43,3 +44,5 @@ List of open workflows and resources for a/v archiving. Please contribute!
 - [MediaConch](https://github.com/MediaArea/MediaConch_SourceCode)
 - [qctools](github.com/bavc/qctools)
 - [vrecord](https://github.com/amiaopensource/vrecord)
+- [Audacity](http://www.audacityteam.org/)
+- [BWF MetaEdit](http://bwfmetaedit.sourceforge.net/)
