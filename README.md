@@ -4,6 +4,7 @@ List of open workflows and resources for a/v archiving. Please contribute!
 
 ## Documentation
 
+- [Andy Warhol Museum Digital Strategy](https://github.com/thewarholmuseum/digital-strategy/): A versioned digital strategy repository for The Andy Warhol Museum
 - [Archivematica Development Wiki](https://wiki.archivematica.org/Main_Page)
 - [Collective Access Community: Guides and Workflows](http://collectiveaccesscommunity.org/category/guides/)
 - [Library Workflow Exchange](http://www.libraryworkflowexchange.org/): A site designed to help librarians share workflows and best practices across institutions
