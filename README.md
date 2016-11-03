@@ -32,6 +32,7 @@ List of open workflows and resources for a/v archiving. Please contribute!
 - [Carnegie Hall](https://github.com/CarnegieHall)
 - [CUNY mediamicroservices](https://github.com/mediamicroservices/mm): Suite of bash scripts for a/v archiving  
 - [ffmprovisr](https://github.com/amiaopensource/ffmprovisr): Repository of useful FFmpeg command lines for archivists!  
+- [New York Times video microservices](http://open.blogs.nytimes.com/2016/11/01/using-microservices-to-encode-and-publish-videos-at-the-new-york-times/): Documentation and links to services scripts
 - [ucsb-src-microservices](https://github.com/brnco/ucsb-src-microservices): post-processing scripts we use at UCSB Special Research Collections AVLab
 - [U.S. National Archives](https://github.com/usnationalarchives)
 - [Yale University Libraries](https://github.com/yalemssa): Manuscripts and Archives Github
