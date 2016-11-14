@@ -7,8 +7,10 @@ List of open workflows and resources for a/v archiving. Please contribute!
 - [Andy Warhol Museum Digital Strategy](https://github.com/thewarholmuseum/digital-strategy/): A versioned digital strategy repository for The Andy Warhol Museum
 - [Archivematica Development Wiki](https://wiki.archivematica.org/Main_Page)
 - [Collective Access Community: Guides and Workflows](http://collectiveaccesscommunity.org/category/guides/)
+- [DC Memory Lab](http://libguides.dclibrary.org/memorylab): How to transfer formats (specific to their setup but applicable elsewhere)
 - [Library Workflow Exchange](http://www.libraryworkflowexchange.org/): A site designed to help librarians share workflows and best practices across institutions
 - [Format Migrations at Harvard](http://blogs.loc.gov/thesignal/2015/04/format-migrations-at-harvard-library-an-ndsr-project-update/)
+- [On Personal Archiving Labs](https://samabrams.wordpress.com/2016/07/28/on-personal-archiving-labs/): Blog post by Sam Abrams on setting up a personal archiving lab for Madison Public Library
 - [UCLA Quality Control Workflow](https://www.library.ucla.edu/sites/default/files/Guidelines_MetadataQualityControl.pdf): (PDF)
 - [University of Michigan ICPSR](http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/preservation/index.html): "This guide describes digital preservation practices at ICPSR, the primary objective of which is to ensure long-term access to the more than 500,000 files in our collection."
 - [York University Preservation Documentation](https://github.com/yorkulibraries/preservation_documentation): Version controlled draft versions of York University Libraries' digital preservation policy and documentation.  
