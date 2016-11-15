@@ -10,6 +10,7 @@ List of open workflows and resources for a/v archiving. Please contribute!
 - [Digital Processing, Bentley Historical Library](https://sites.google.com/a/umich.edu/bhl-archival-curation/processing-archival-collections/08-digital-processing): Workflow for ingesting digital objects at the Bentley Historial Library.
 - [Format Migrations at Harvard](http://blogs.loc.gov/thesignal/2015/04/format-migrations-at-harvard-library-an-ndsr-project-update/)
 - [Library Workflow Exchange](http://www.libraryworkflowexchange.org/): A site designed to help librarians share workflows and best practices across institutions
+- [Personal Digital Archiving Day Kit](http://www.digitalpreservation.gov/personalarchiving/padKit/index.html): Robust documentation around organizing and hosting a Personal Archiving Day, including a/v resources.
 - [UCLA Quality Control Workflow](https://www.library.ucla.edu/sites/default/files/Guidelines_MetadataQualityControl.pdf): (PDF)
 - [University of Michigan ICPSR](http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/preservation/index.html): "This guide describes digital preservation practices at ICPSR, the primary objective of which is to ensure long-term access to the more than 500,000 files in our collection."
 - [University of Washington Media Center](https://github.com/pugetsoundandvision/information/blob/master/UWMC/Open%20Reel%20(Reel%20to%20Reel)%20Tape%20Digitization%20Guide.md): Step by step documentation of open-reel audio digitization workflow in place at the University of Washington Libraries Media Center.
