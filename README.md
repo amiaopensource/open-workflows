@@ -16,6 +16,7 @@ If you have never contributed to Github before, [here is a guide](http://ablwr.g
 - [UCLA Quality Control Workflow](https://www.library.ucla.edu/sites/default/files/Guidelines_MetadataQualityControl.pdf): (PDF)
 - [University of Michigan ICPSR](http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/preservation/index.html): "This guide describes digital preservation practices at ICPSR, the primary objective of which is to ensure long-term access to the more than 500,000 files in our collection."
 - [University of Washington Media Center](https://github.com/pugetsoundandvision/information/blob/master/UWMC/Open%20Reel%20(Reel%20to%20Reel)%20Tape%20Digitization%20Guide.md): Step by step documentation of open-reel audio digitization workflow in place at the University of Washington Libraries Media Center.
+- [VideoPreservation Website](http://videopreservation.conservation-us.org/): Site to encourage the preservation of historic video using the mature technology of digital capture.
 - [York University Preservation Documentation](https://github.com/yorkulibraries/preservation_documentation): Version controlled draft versions of York University Libraries' digital preservation policy and documentation.  
 
 ## Transfer stations and digitization labs
