@@ -1,6 +1,8 @@
 # open-workflows
 
-List of open workflows and resources for a/v archiving. Please contribute!
+List of open workflows and resources for a/v archiving. Please contribute!  
+
+If you have never contributed to Github before, [here is a guide](http://ablwr.github.io/blog/2014/11/04/non-technical-persons-guide-to-becoming-an-open-source-software-contributor-via-github/)! You can also [file an issue](https://github.com/amiaopensource/open-workflows/issues/new) (which is like filling out a form) and someone else will add it.
 
 ## Documentation
 
