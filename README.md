@@ -25,6 +25,7 @@ If you have never contributed to Github before, [here is a guide](http://ablwr.g
 - [Indiana University Scholar Commons Digitization Lab](https://libraries.indiana.edu/scholars-commons-digitization-lab)
 - [Kalamazoo Public Library The Hub](http://www.kpl.gov/hub/)
 - [On Personal Archiving Labs](https://samabrams.wordpress.com/2016/07/28/on-personal-archiving-labs/): Blog post by Sam Abrams on setting up a personal archiving lab for Madison Public Library
+- [UW Media Arcade](http://guides.lib.uw.edu/c.php?g=342258&p=2300599): A digital A/V makerspace that supports media creation, preservation and use.
 - [XFR Collective](https://github.com/XFRCollective)
 
 
@@ -40,6 +41,7 @@ If you have never contributed to Github before, [here is a guide](http://ablwr.g
 - [Libraries Sharing Code](https://wiki.code4lib.org/Libraries_Sharing_Code): Wiki list of libraries sharing their code on Github or on other open repositories.
 - [media-id-posters](https://github.com/ablwr/media-id-posters): Visualized summaries of physical objects for a/v archivists
 - [No Time To Wait! Symposium](https://github.com/preforma/notimetowait): Documentation around conference including slides and videos on talks focused around Matroska and FFV1 workflows
+- [UW Audio Preservation and Resoration Guide](http://guides.lib.uw.edu/research/AudioPreservation) Large aggregation of Audio resources with descriptions.
 
 ## Scripts
 
@@ -58,9 +60,10 @@ If you have never contributed to Github before, [here is a guide](http://ablwr.g
 
 ## Tools
 
-- [Audacity](http://www.audacityteam.org/)
-- [BWF MetaEdit](http://bwfmetaedit.sourceforge.net/)
-- [MediaConch](https://github.com/MediaArea/MediaConch_SourceCode)
-- [MediaInfo](https://mediaarea.net/en/MediaInfo)
-- [qctools](github.com/bavc/qctools)
-- [vrecord](https://github.com/amiaopensource/vrecord)
+- [Audacity](http://www.audacityteam.org/): Free open source digital audio workstation. Supports recording and editing of audio.
+- [BWF MetaEdit](http://bwfmetaedit.sourceforge.net/): Allows the embedding of BWF metadata in WAV files.
+- [MediaConch](https://github.com/MediaArea/MediaConch_SourceCode): Tool for quickly creating and comparing policies for digital media to ensure compliance with chosen standards.
+- [MediaInfo](https://mediaarea.net/en/MediaInfo): Essential tool for quick analysis of A/V file metadata.
+- [qctools](github.com/bavc/qctools): Enables extensive analysis of digitized video for quality control purposes.
+- [vrecord](https://github.com/amiaopensource/vrecord): Open source tool for analog video digitization. Includes a variety of virtual scopes.  Requires [Blackmagic](https://www.blackmagicdesign.com/products) hardware. 
+- [XLD](http://tmkk.undo.jp/xld/index_e.html): Tool for lossless transcoding of various audio formats.  Useful for error free CD ripping.
