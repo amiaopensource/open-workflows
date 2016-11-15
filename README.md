@@ -45,7 +45,8 @@ If you have never contributed to Github before, [here is a guide](http://ablwr.g
 
 - [Carnegie Hall](https://github.com/CarnegieHall)
 - [CUNY mediamicroservices](https://github.com/mediamicroservices/mm): Suite of bash scripts for a/v archiving  
-- [ffmprovisr](https://github.com/amiaopensource/ffmprovisr): Repository of useful FFmpeg command lines for archivists!  
+- [ffmprovisr](https://github.com/amiaopensource/ffmprovisr): Repository of useful FFmpeg command lines for archivists! 
+- [IFIscripts](https://github.com/kieranjol/IFIscripts): Scripts for video/DCP/image sequences/fixity for use in the IFI Irish Film Archive. 
 - [National Library of New Zealand (NLNZ)](https://github.com/NLNZDigitalPreservation): Scripts for generating METS records, Rosetta-compliant SIPs, etc.
 - [New York Times video microservices](http://open.blogs.nytimes.com/2016/11/01/using-microservices-to-encode-and-publish-videos-at-the-new-york-times/): Documentation and links to services scripts
 - [Puget Sound and Vision Audio Scripts](https://github.com/pugetsoundandvision/audiotools): Bash scripts/documentation used at University of Washington for moving from a digitized WAV file to a package including BWF, TIFFs and derivatives.
