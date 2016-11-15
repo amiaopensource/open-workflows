@@ -7,16 +7,22 @@ List of open workflows and resources for a/v archiving. Please contribute!
 - [Andy Warhol Museum Digital Strategy](https://github.com/thewarholmuseum/digital-strategy/): A versioned digital strategy repository for The Andy Warhol Museum
 - [Archivematica Development Wiki](https://wiki.archivematica.org/Main_Page)
 - [Collective Access Community: Guides and Workflows](http://collectiveaccesscommunity.org/category/guides/)
-- [DC Memory Lab](http://libguides.dclibrary.org/memorylab): How to transfer formats (specific to their setup but applicable elsewhere)
 - [Digital Processing, Bentley Historical Library](https://sites.google.com/a/umich.edu/bhl-archival-curation/processing-archival-collections/08-digital-processing): Workflow for ingesting digital objects at the Bentley Historial Library.
 - [Format Migrations at Harvard](http://blogs.loc.gov/thesignal/2015/04/format-migrations-at-harvard-library-an-ndsr-project-update/)
 - [Library Workflow Exchange](http://www.libraryworkflowexchange.org/): A site designed to help librarians share workflows and best practices across institutions
-- [On Personal Archiving Labs](https://samabrams.wordpress.com/2016/07/28/on-personal-archiving-labs/): Blog post by Sam Abrams on setting up a personal archiving lab for Madison Public Library
 - [UCLA Quality Control Workflow](https://www.library.ucla.edu/sites/default/files/Guidelines_MetadataQualityControl.pdf): (PDF)
 - [University of Michigan ICPSR](http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/preservation/index.html): "This guide describes digital preservation practices at ICPSR, the primary objective of which is to ensure long-term access to the more than 500,000 files in our collection."
 - [University of Washington Media Center](https://github.com/pugetsoundandvision/information/blob/master/UWMC/Open%20Reel%20(Reel%20to%20Reel)%20Tape%20Digitization%20Guide.md): Step by step documentation of open-reel audio digitization workflow in place at the University of Washington Libraries Media Center.
-- [XFR Collective](https://github.com/XFRCollective)
 - [York University Preservation Documentation](https://github.com/yorkulibraries/preservation_documentation): Version controlled draft versions of York University Libraries' digital preservation policy and documentation.  
+
+## Transfer stations and digitization labs
+- [Brooklyn Public Library Info Commons](http://www.bklynlibrary.org/conversion)
+- [DC Public Library Memory Lab](http://libguides.dclibrary.org/memorylab): How to transfer formats (specific to their setup but applicable elsewhere)
+- [Indiana University Scholar Commons Digitization Lab](https://libraries.indiana.edu/scholars-commons-digitization-lab)
+- [Kalamazoo Public Library The Hub](http://www.kpl.gov/hub/)
+- [On Personal Archiving Labs](https://samabrams.wordpress.com/2016/07/28/on-personal-archiving-labs/): Blog post by Sam Abrams on setting up a personal archiving lab for Madison Public Library
+- [XFR Collective](https://github.com/XFRCollective)
+
 
 ## Resources
 
