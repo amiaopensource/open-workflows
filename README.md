@@ -26,6 +26,7 @@ If you have never contributed to Github before, [here is a guide](http://ablwr.g
 - [Kalamazoo Public Library The Hub](http://www.kpl.gov/hub/)
 - [On Personal Archiving Labs](https://samabrams.wordpress.com/2016/07/28/on-personal-archiving-labs/): Blog post by Sam Abrams on setting up a personal archiving lab for Madison Public Library
 - [UW Media Arcade](http://guides.lib.uw.edu/c.php?g=342258&p=2300599): A digital A/V makerspace that supports media creation, preservation and use.
+- [University of Wisconsin-Madison RADD](http://radd.dsalo.info/index.php/category/how-tos/) How-to guides to digitizationa
 - [XFR Collective](https://github.com/XFRCollective)
 
 
