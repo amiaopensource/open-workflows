@@ -47,7 +47,7 @@ If you have never contributed to Github before, [here is a guide](http://ablwr.g
 
 ## Scripts
 
-- [Carnegie Hall](https://github.com/CarnegieHall)
+- [Carnegie Hall](https://github.com/CarnegieHall): Post-digitization quality control workflow documentation and scripts; Scripts and overview documentation for generating linked data from event records; and scripts and documentation detailing workflow for batch linking metadata records from disparate CSVs to files.
 - [CUNY mediamicroservices](https://github.com/mediamicroservices/mm): Suite of bash scripts for a/v archiving  
 - [ffmprovisr](https://github.com/amiaopensource/ffmprovisr): Repository of useful FFmpeg command lines for archivists! 
 - [IFIscripts](https://github.com/kieranjol/IFIscripts): Scripts for video/DCP/image sequences/fixity for use in the IFI Irish Film Archive. 
