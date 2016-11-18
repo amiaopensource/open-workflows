@@ -54,7 +54,7 @@ If you have never contributed to GitHub before, [here is a guide](http://ablwr.g
 - [National Library of New Zealand (NLNZ)](https://github.com/NLNZDigitalPreservation): Scripts for generating METS records, Rosetta-compliant SIPs, etc.
 - [New York Times video microservices](http://open.blogs.nytimes.com/2016/11/01/using-microservices-to-encode-and-publish-videos-at-the-new-york-times/): Documentation and links to services scripts.
 - [Puget Sound and Vision Audio Scripts](https://github.com/pugetsoundandvision/audiotools): Bash scripts/documentation used at University of Washington for moving from a digitized WAV file to a package including BWF, TIFFs and derivatives.
-- [Rockefeller Center Archives transfer_workflow](https://github.com/RockefellerArchiveCenter/transfer_workflow): Digital media transfer workflow documentation.
+- [Rockefeller Archive Center Transfer Workflow](https://github.com/RockefellerArchiveCenter/transfer_workflow): Digital media inventory and transfer workflow documentation.
 - [ucsb-src-microservices](https://github.com/brnco/ucsb-src-microservices): Post-processing scripts we use at UCSB Special Research Collections AVLab.
 - [U.S. National Archives](https://github.com/usnationalarchives)
 - [WGBH preservation-workflows](https://github.com/WGBH/preservation-workflow): Useful scripts to help automate common WGBH Media Library and Archive digital preservation workflows into a single preserve.rb Ruby script.
