@@ -36,6 +36,7 @@ If you have never contributed to GitHub before, [here is a guide](http://ablwr.g
 - [audio-digitization-toolkit](https://github.com/todrobbins/audio-digitization-toolkit): A list of resources for setting up an audio digitization workflow.
 - [A/V Artifact Atlas](http://avaa.bavc.org/artifactatlas/index.php/A/V_Artifact_Atlas): For use in the identification and definition of the technical issues and anomalies that can afflict audio and video signals.
 - [cable-bible](https://github.com/amiaopensource/cable-bible): A guide to cables and connectors used for audiovisual tech.
+- [Cassette Decks: Buying Guide](https://www.cs.cmu.edu/~./gdead/taping-guide/part1.html)
 - [Cleaning Digibetas](https://bitbucket.co.uk/work/db_cleaning.html)
 - [Community Owned digital Preservation Tool Registry (COPTR)](http://coptr.digipres.org/Main_Page): COPTR describes tools useful for long term digital presesrvation and acts primarily as a finding and evaluation tool to help practitioners find the tools they need to preserve digital data.
 - [Digital POWRR Tool Grid 2.0](http://www.digipres.org/tools/ubergrid/): An ubergrid of tools useful in digital preservation, and their role in the preservation lifecycle.
