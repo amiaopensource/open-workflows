@@ -50,6 +50,7 @@ If you have never contributed to GitHub before, [here is a guide](http://ablwr.g
 
 - [Carnegie Hall](https://github.com/CarnegieHall): Post-digitization quality control workflow documentation and scripts; scripts and overview documentation for generating linked data from event records; and scripts and documentation detailing workflow for batch linking metadata records from disparate CSVs to files.
 - [CUNY mediamicroservices](https://github.com/mediamicroservices/mm): Suite of bash scripts for A/V archiving.
+- [FFmpeg Cookbook for Archivists](https://avpres.net/FFmpeg/)
 - [ffmprovisr](https://github.com/amiaopensource/ffmprovisr): Repository of useful FFmpeg command lines for archivists! 
 - [IFIscripts](https://github.com/kieranjol/IFIscripts): Scripts for video/DCP/image sequences/fixity for use in the IFI Irish Film Archive. 
 - [National Library of New Zealand (NLNZ)](https://github.com/NLNZDigitalPreservation): Scripts for generating METS records, Rosetta-compliant SIPs, etc.
