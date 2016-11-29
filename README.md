@@ -4,6 +4,13 @@ List of open workflows and resources for A/V archiving. Please contribute!
 
 If you have never contributed to GitHub before, [here is a guide](http://ablwr.github.io/blog/2014/11/04/non-technical-persons-guide-to-becoming-an-open-source-software-contributor-via-github/)! You can also [file an issue](https://github.com/amiaopensource/open-workflows/issues/new) (which is like filling out a form) and someone else will add it.
 
+## Contents
+1. [Documentation](#documentation)
+2. [Transfer Stations and Digitization Labs](#transfer-stations-and-digitization-labs)
+3. [Resources](#resources)
+4. [Scripts](#scripts)
+5. [Tools](#tools)
+
 ## Documentation
 
 - [Andy Warhol Museum Digital Strategy](https://github.com/thewarholmuseum/digital-strategy/): A versioned digital strategy repository for The Andy Warhol Museum.
