@@ -31,6 +31,7 @@ If you have never contributed to GitHub before, [here is a guide](http://ablwr.g
 - [DC Public Library Memory Lab](http://libguides.dclibrary.org/memorylab): How to transfer formats (specific to their setup but applicable elsewhere).
 - [Indiana University Scholar Commons Digitization Lab](https://libraries.indiana.edu/scholars-commons-digitization-lab)
 - [Kalamazoo Public Library The Hub](http://www.kpl.gov/hub/)
+- [Moving Image Preservation of Puget Sound (MiPoPs)](http://www.mipops.org/)
 - [On Personal Archiving Labs](https://samabrams.wordpress.com/2016/07/28/on-personal-archiving-labs/): Blog post by Sam Abrams on setting up a personal archiving lab for Madison Public Library.
 - [UW Media Arcade](http://guides.lib.uw.edu/c.php?g=342258&p=2300599): A digital A/V makerspace that supports media creation, preservation and use.
 - [University of Wisconsin-Madison RADD](http://radd.dsalo.info/index.php/category/how-tos/) How-to guides to digitization.
@@ -48,6 +49,7 @@ If you have never contributed to GitHub before, [here is a guide](http://ablwr.g
 - [Community Owned digital Preservation Tool Registry (COPTR)](http://coptr.digipres.org/Main_Page): COPTR describes tools useful for long term digital presesrvation and acts primarily as a finding and evaluation tool to help practitioners find the tools they need to preserve digital data.
 - [Digital POWRR Tool Grid 2.0](http://www.digipres.org/tools/ubergrid/): An ubergrid of tools useful in digital preservation, and their role in the preservation lifecycle.
 - [Libraries Sharing Code](https://wiki.code4lib.org/Libraries_Sharing_Code): Wiki list of libraries sharing their code on GitHub or on other open repositories.
+- [Matters in Media Art Assessment Workstation](http://mattersinmediaart.org/assessing-time-based-media-art.html#workstation)
 - [media-id-posters](https://github.com/ablwr/media-id-posters): Visualized summaries of physical objects for A/V archivists.
 - [No Time To Wait! Symposium](https://github.com/preforma/notimetowait): Documentation around conference including slides and videos on talks focused around Matroska and FFV1 workflows.
 - [QCTools Cheat Sheet](https://docs.google.com/document/d/1xat34KWmMwmz8lzXPUACItPdGFR_kBv43Vu6Qkeaov4/edit)
