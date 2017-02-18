@@ -78,6 +78,6 @@ If you have never contributed to GitHub before, [here is a guide](http://ablwr.g
 - [BWF MetaEdit](http://bwfmetaedit.sourceforge.net/): Allows the embedding of BWF metadata in WAV files.
 - [MediaConch](https://github.com/MediaArea/MediaConch_SourceCode): Tool for quickly creating and comparing policies for digital media to ensure compliance with chosen standards.
 - [MediaInfo](https://mediaarea.net/en/MediaInfo): Essential tool for quick analysis of A/V file metadata.
-- [qctools](github.com/bavc/qctools): Enables extensive analysis of digitized video for quality control purposes.
+- [QCTools](https://github.com/bavc/qctools): Enables extensive analysis of digitized video for quality control purposes.
 - [vrecord](https://github.com/amiaopensource/vrecord): Open source tool for analog video digitization. Includes a variety of virtual scopes. Requires [Blackmagic](https://www.blackmagicdesign.com/products) hardware. 
 - [XLD](http://tmkk.undo.jp/xld/index_e.html): Tool for lossless transcoding of various audio formats. Useful for error free CD ripping.
