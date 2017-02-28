@@ -77,6 +77,7 @@ If you have never contributed to GitHub before, [here is a guide](http://ablwr.g
 - [Audacity](http://www.audacityteam.org/): Free open source digital audio workstation. Supports recording and editing of audio.
 - [BWF MetaEdit](http://bwfmetaedit.sourceforge.net/): Allows the embedding of BWF metadata in WAV files.
 - [Digital Media Log](https://github.com/RockefellerArchiveCenter/dm_log): A Rails app that uses ArchivesSpace's API to quickly inventory digital media items and log disk imaging.
+- [DCP-o-matic](https://dcpomatic.com/): a free, open-source program to create Digital Cinema Packages (DCPs) from videos, images, sound and subtitle files. 
 - [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/): a Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files, with a focus on still image file formats.
 - [MediaConch](https://github.com/MediaArea/MediaConch_SourceCode): Tool for quickly creating and comparing policies for digital media to ensure compliance with chosen standards.
 - [MediaInfo](https://mediaarea.net/en/MediaInfo): Essential tool for quick analysis of A/V file metadata.
