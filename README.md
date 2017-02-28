@@ -42,7 +42,7 @@ If you have never contributed to GitHub before, [here is a guide](http://ablwr.g
 
 - [analog-inspection](https://github.com/amiaopensource/analog-inspection): List of analog media inspection templates/forms.
 - [audio-digitization-toolkit](https://github.com/todrobbins/audio-digitization-toolkit): A list of resources for setting up an audio digitization workflow.
-- [A/V Artifact Atlas](http://avaa.bavc.org/artifactatlas/index.php/A/V_Artifact_Atlas): For use in the identification and definition of the technical issues and anomalies that can afflict audio and video signals.
+- [A/V Artifact Atlas](https://bavc.github.io/avaa/): For use in the identification and definition of the technical issues and anomalies that can afflict audio and video signals.
 - [cable-bible](https://github.com/amiaopensource/cable-bible): A guide to cables and connectors used for audiovisual tech.
 - [Cassette Decks: Buying Guide](https://www.cs.cmu.edu/~./gdead/taping-guide/part1.html)
 - [Cleaning Digibetas](https://bitbucket.co.uk/work/db_cleaning.html)
@@ -60,8 +60,8 @@ If you have never contributed to GitHub before, [here is a guide](http://ablwr.g
 - [Carnegie Hall](https://github.com/CarnegieHall): Post-digitization quality control workflow documentation and scripts; scripts and overview documentation for generating linked data from event records; and scripts and documentation detailing workflow for batch linking metadata records from disparate CSVs to files.
 - [CUNY mediamicroservices](https://github.com/mediamicroservices/mm): Suite of bash scripts for A/V archiving.
 - [FFmpeg Cookbook for Archivists](https://avpres.net/FFmpeg/)
-- [ffmprovisr](https://github.com/amiaopensource/ffmprovisr): Repository of useful FFmpeg command lines for archivists! 
-- [IFIscripts](https://github.com/kieranjol/IFIscripts): Scripts for video/DCP/image sequences/fixity for use in the IFI Irish Film Archive. 
+- [ffmprovisr](https://github.com/amiaopensource/ffmprovisr): Repository of useful FFmpeg command lines for archivists!
+- [IFIscripts](https://github.com/kieranjol/IFIscripts): Scripts for video/DCP/image sequences/fixity for use in the IFI Irish Film Archive.
 - [National Library of New Zealand (NLNZ)](https://github.com/NLNZDigitalPreservation): Scripts for generating METS records, Rosetta-compliant SIPs, etc.
 - [New York Times video microservices](http://open.blogs.nytimes.com/2016/11/01/using-microservices-to-encode-and-publish-videos-at-the-new-york-times/): Documentation and links to services scripts.
 - [Puget Sound and Vision Audio Scripts](https://github.com/pugetsoundandvision/audiotools): Bash scripts/documentation used at University of Washington for moving from a digitized WAV file to a package including BWF, TIFFs and derivatives.
@@ -73,11 +73,14 @@ If you have never contributed to GitHub before, [here is a guide](http://ablwr.g
 
 ## Tools
 
+- [AEO-Light 2](https://github.com/usc-imi/aeo-light/releases): Open source optical sound extraction software.
 - [Audacity](http://www.audacityteam.org/): Free open source digital audio workstation. Supports recording and editing of audio.
-- [Digital Media Log](https://github.com/RockefellerArchiveCenter/dm_log): A Rails app that uses ArchivesSpace's API to quickly inventory digital media items and log disk imaging.
 - [BWF MetaEdit](http://bwfmetaedit.sourceforge.net/): Allows the embedding of BWF metadata in WAV files.
+- [Digital Media Log](https://github.com/RockefellerArchiveCenter/dm_log): A Rails app that uses ArchivesSpace's API to quickly inventory digital media items and log disk imaging.
+- [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/): a Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files, with a focus on still image file formats.
 - [MediaConch](https://github.com/MediaArea/MediaConch_SourceCode): Tool for quickly creating and comparing policies for digital media to ensure compliance with chosen standards.
 - [MediaInfo](https://mediaarea.net/en/MediaInfo): Essential tool for quick analysis of A/V file metadata.
+- [Open DPC](http://opendcp.org/): a cross-platform application to create digital cinema packages.
 - [QCTools](https://github.com/bavc/qctools): Enables extensive analysis of digitized video for quality control purposes.
-- [vrecord](https://github.com/amiaopensource/vrecord): Open source tool for analog video digitization. Includes a variety of virtual scopes. Requires [Blackmagic](https://www.blackmagicdesign.com/products) hardware. 
+- [vrecord](https://github.com/amiaopensource/vrecord): Open source tool for analog video digitization. Includes a variety of virtual scopes. Requires [Blackmagic](https://www.blackmagicdesign.com/products) hardware.
 - [XLD](http://tmkk.undo.jp/xld/index_e.html): Tool for lossless transcoding of various audio formats. Useful for error free CD ripping.
