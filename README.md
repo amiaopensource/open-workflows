@@ -80,11 +80,11 @@ If you have never contributed to GitHub before, [here is a guide](http://ablwr.g
 - [Audacity](http://www.audacityteam.org/): Free open source digital audio workstation. Supports recording and editing of audio.
 - [BWF MetaEdit](http://bwfmetaedit.sourceforge.net/): Allows the embedding of BWF metadata in WAV files.
 - [Digital Media Log](https://github.com/RockefellerArchiveCenter/dm_log): A Rails app that uses ArchivesSpace's API to quickly inventory digital media items and log disk imaging.
-- [DCP-o-matic](https://dcpomatic.com/): A free, open-source program to create Digital Cinema Packages (DCPs) from videos, images, sound and subtitle files. 
+- [DCP-o-matic](https://dcpomatic.com/): A free, open-source program to create digital cinema packages (DCPs) from videos, images, sound and subtitle files. 
 - [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/): A Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files, with a focus on still image file formats.
 - [MediaConch](https://github.com/MediaArea/MediaConch_SourceCode): Tool for quickly creating and comparing policies for digital media to ensure compliance with chosen standards.
 - [MediaInfo](https://mediaarea.net/en/MediaInfo): Essential tool for quick analysis of A/V file metadata.
-- [Open DPC](http://opendcp.org/): A cross-platform application to create digital cinema packages.
+- [OpenDPC](http://opendcp.org/): A cross-platform application to create digital cinema packages (DCPs).
 - [QCTools](https://github.com/bavc/qctools): Enables extensive analysis of digitized video for quality control purposes.
 - [vrecord](https://github.com/amiaopensource/vrecord): Open source tool for analog video digitization. Includes a variety of virtual scopes. [Requires](https://github.com/amiaopensource/vrecord/blob/master/Resources/hardware.md) a computer running a recent macOS or Linux and Blackmagic hardware.
 - [XLD](http://tmkk.undo.jp/xld/index_e.html): Tool for lossless transcoding of various audio formats. Useful for error free CD ripping.
