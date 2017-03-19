@@ -84,7 +84,7 @@ If you have never contributed to GitHub before, [here is a guide](http://ablwr.g
 - [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/): A Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files, with a focus on still image file formats.
 - [MediaConch](https://github.com/MediaArea/MediaConch_SourceCode): Tool for quickly creating and comparing policies for digital media to ensure compliance with chosen standards.
 - [MediaInfo](https://mediaarea.net/en/MediaInfo): Essential tool for quick analysis of A/V file metadata.
-- [OpenDPC](http://opendcp.org/): A cross-platform application to create digital cinema packages (DCPs).
+- [OpenDCP](http://opendcp.org/): A cross-platform application to create digital cinema packages (DCPs).
 - [QCTools](https://github.com/bavc/qctools): Enables extensive analysis of digitized video for quality control purposes.
 - [vrecord](https://github.com/amiaopensource/vrecord): Open source tool for analog video digitization. Includes a variety of virtual scopes. [Requires](https://github.com/amiaopensource/vrecord/blob/master/Resources/hardware.md) a computer running a recent macOS or Linux and Blackmagic hardware.
 - [XLD](http://tmkk.undo.jp/xld/index_e.html): Tool for lossless transcoding of various audio formats. Useful for error free CD ripping.
