@@ -20,6 +20,7 @@ If you have never contributed to GitHub before, [here is a guide](http://ablwr.g
 - [Format Migrations at Harvard](http://blogs.loc.gov/thesignal/2015/04/format-migrations-at-harvard-library-an-ndsr-project-update/)
 - [Indigitization](http://www.indigitization.ca/indigitization-toolkit/introduction/): A 'toolkit' of workflows focused on supporting First Nations communities' digitization of cultural resources. Contains detailed walkthroughs for cassette digitization as well as metadata best practices.
 - [Library Workflow Exchange](http://www.libraryworkflowexchange.org/): A site designed to help librarians share workflows and best practices across institutions.
+- [NYPL ami-specifications](https://github.com/nypl/ami-specifications): A repository for NYPL's digital asset technical specifications (audio, moving image, and more).
 - [NYPL media-ingest workflow](https://nypl.github.io/repo-docs/media-ingest.html): Workflow for NYPL media ingest process.
 - [Personal Digital Archiving Day Kit](http://www.digitalpreservation.gov/personalarchiving/padKit/index.html): Robust documentation around organizing and hosting a Personal Archiving Day, including A/V resources.
 - [UCLA Quality Control Workflow](https://www.library.ucla.edu/sites/default/files/Guidelines_MetadataQualityControl.pdf): (PDF)
