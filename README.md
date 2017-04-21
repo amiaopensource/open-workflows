@@ -18,12 +18,16 @@ If you have never contributed to GitHub before, [here is a guide](http://ablwr.g
 - [Collective Access Community: Guides and Workflows](http://collectiveaccesscommunity.org/category/guides/)
 - [Digital Processing, Bentley Historical Library](https://sites.google.com/a/umich.edu/bhl-archival-curation/processing-archival-collections/08-digital-processing): Workflow for ingesting digital objects at the Bentley Historial Library.
 - [Format Migrations at Harvard](http://blogs.loc.gov/thesignal/2015/04/format-migrations-at-harvard-library-an-ndsr-project-update/)
+- [Indigitization](http://www.indigitization.ca/indigitization-toolkit/introduction/): A 'toolkit' of workflows focused on supporting First Nations communities' digitization of cultural resources. Contains detailed walkthroughs for cassette digitization as well as metadata best practices.
 - [Library Workflow Exchange](http://www.libraryworkflowexchange.org/): A site designed to help librarians share workflows and best practices across institutions.
+- [NYPL ami-specifications](https://github.com/nypl/ami-specifications): A repository for NYPL's digital asset technical specifications (audio, moving image, and more).
+- [NYPL media-ingest workflow](https://nypl.github.io/repo-docs/media-ingest.html): Workflow for NYPL media ingest process.
 - [Personal Digital Archiving Day Kit](http://www.digitalpreservation.gov/personalarchiving/padKit/index.html): Robust documentation around organizing and hosting a Personal Archiving Day, including A/V resources.
 - [UCLA Quality Control Workflow](https://www.library.ucla.edu/sites/default/files/Guidelines_MetadataQualityControl.pdf): (PDF)
 - [University of Michigan ICPSR](http://www.icpsr.umich.edu/icpsrweb/content/datamanagement/preservation/index.html): "This guide describes digital preservation practices at ICPSR, the primary objective of which is to ensure long-term access to the more than 500,000 files in our collection."
 - [University of Washington Media Center](https://github.com/pugetsoundandvision/information/blob/master/UWMC/Open%20Reel%20(Reel%20to%20Reel)%20Tape%20Digitization%20Guide.md): Step by step documentation of open-reel audio digitization workflow in place at the University of Washington Libraries Media Center.
 - [VideoPreservation Website](http://videopreservation.conservation-us.org/): Site to encourage the preservation of historic video using the mature technology of digital capture.
+- [WGBH PBS NewsHour Digitization Project Update: Ingest and Digital Preservation Workflows](https://americanarchivepb.wordpress.com/2017/04/12/pbs-newshour-digitization-project-update-ingest-and-digital-preservation-workflows/): Blog post detailing digitization, ingest, and QC workflow from WGBH.
 - [York University Preservation Documentation](https://github.com/yorkulibraries/preservation_documentation): Version controlled draft versions of York University Libraries' digital preservation policy and documentation.  
 
 ## Transfer stations and digitization labs
@@ -42,7 +46,7 @@ If you have never contributed to GitHub before, [here is a guide](http://ablwr.g
 
 - [analog-inspection](https://github.com/amiaopensource/analog-inspection): List of analog media inspection templates/forms.
 - [audio-digitization-toolkit](https://github.com/todrobbins/audio-digitization-toolkit): A list of resources for setting up an audio digitization workflow.
-- [A/V Artifact Atlas](http://avaa.bavc.org/artifactatlas/index.php/A/V_Artifact_Atlas): For use in the identification and definition of the technical issues and anomalies that can afflict audio and video signals.
+- [A/V Artifact Atlas](https://bavc.github.io/avaa/): For use in the identification and definition of the technical issues and anomalies that can afflict audio and video signals.
 - [cable-bible](https://github.com/amiaopensource/cable-bible): A guide to cables and connectors used for audiovisual tech.
 - [Cassette Decks: Buying Guide](https://www.cs.cmu.edu/~./gdead/taping-guide/part1.html)
 - [Cleaning Digibetas](https://bitbucket.co.uk/work/db_cleaning.html)
@@ -60,10 +64,11 @@ If you have never contributed to GitHub before, [here is a guide](http://ablwr.g
 - [Carnegie Hall](https://github.com/CarnegieHall): Post-digitization quality control workflow documentation and scripts; scripts and overview documentation for generating linked data from event records; and scripts and documentation detailing workflow for batch linking metadata records from disparate CSVs to files.
 - [CUNY mediamicroservices](https://github.com/mediamicroservices/mm): Suite of bash scripts for A/V archiving.
 - [FFmpeg Cookbook for Archivists](https://avpres.net/FFmpeg/)
-- [ffmprovisr](https://github.com/amiaopensource/ffmprovisr): Repository of useful FFmpeg command lines for archivists! 
-- [IFIscripts](https://github.com/kieranjol/IFIscripts): Scripts for video/DCP/image sequences/fixity for use in the IFI Irish Film Archive. 
+- [ffmprovisr](https://github.com/amiaopensource/ffmprovisr): Repository of useful FFmpeg command lines for archivists!
+- [IFIscripts](https://github.com/kieranjol/IFIscripts): Scripts for video/DCP/image sequences/fixity for use in the IFI Irish Film Archive.
 - [National Library of New Zealand (NLNZ)](https://github.com/NLNZDigitalPreservation): Scripts for generating METS records, Rosetta-compliant SIPs, etc.
 - [New York Times video microservices](http://open.blogs.nytimes.com/2016/11/01/using-microservices-to-encode-and-publish-videos-at-the-new-york-times/): Documentation and links to services scripts.
+- [NYPL ami-tools](https://github.com/nypl/ami-tools): Python3 scripts and classes to help with managing bags of NYPL AMI files.
 - [Puget Sound and Vision Audio Scripts](https://github.com/pugetsoundandvision/audiotools): Bash scripts/documentation used at University of Washington for moving from a digitized WAV file to a package including BWF, TIFFs and derivatives.
 - [Rockefeller Archive Center Transfer Workflow](https://github.com/RockefellerArchiveCenter/transfer_workflow): Digital media inventory and transfer workflow documentation.
 - [ucsb-src-microservices](https://github.com/brnco/ucsb-src-microservices): Post-processing scripts we use at UCSB Special Research Collections AVLab.
@@ -73,11 +78,15 @@ If you have never contributed to GitHub before, [here is a guide](http://ablwr.g
 
 ## Tools
 
+- [AEO-Light 2](https://github.com/usc-imi/aeo-light/releases): Open source optical sound extraction software.
 - [Audacity](http://www.audacityteam.org/): Free open source digital audio workstation. Supports recording and editing of audio.
-- [Digital Media Log](https://github.com/RockefellerArchiveCenter/dm_log): A Rails app that uses ArchivesSpace's API to quickly inventory digital media items and log disk imaging.
 - [BWF MetaEdit](http://bwfmetaedit.sourceforge.net/): Allows the embedding of BWF metadata in WAV files.
+- [Digital Media Log](https://github.com/RockefellerArchiveCenter/dm_log): A Rails app that uses ArchivesSpace's API to quickly inventory digital media items and log disk imaging.
+- [DCP-o-matic](https://dcpomatic.com/): A free, open-source program to create digital cinema packages (DCPs) from videos, images, sound and subtitle files. 
+- [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/): A Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files, with a focus on still image file formats.
 - [MediaConch](https://github.com/MediaArea/MediaConch_SourceCode): Tool for quickly creating and comparing policies for digital media to ensure compliance with chosen standards.
 - [MediaInfo](https://mediaarea.net/en/MediaInfo): Essential tool for quick analysis of A/V file metadata.
-- [qctools](github.com/bavc/qctools): Enables extensive analysis of digitized video for quality control purposes.
-- [vrecord](https://github.com/amiaopensource/vrecord): Open source tool for analog video digitization. Includes a variety of virtual scopes. Requires [Blackmagic](https://www.blackmagicdesign.com/products) hardware. 
+- [OpenDCP](http://opendcp.org/): A cross-platform application to create digital cinema packages (DCPs).
+- [QCTools](https://github.com/bavc/qctools): Enables extensive analysis of digitized video for quality control purposes.
+- [vrecord](https://github.com/amiaopensource/vrecord): Open source tool for analog video digitization. Includes a variety of virtual scopes. [Requires](https://github.com/amiaopensource/vrecord/blob/master/Resources/hardware.md) a computer running a recent macOS or Linux and Blackmagic hardware.
 - [XLD](http://tmkk.undo.jp/xld/index_e.html): Tool for lossless transcoding of various audio formats. Useful for error free CD ripping.
