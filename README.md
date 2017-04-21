@@ -80,13 +80,16 @@ If you have never contributed to GitHub before, [here is a guide](http://ablwr.g
 
 - [AEO-Light 2](https://github.com/usc-imi/aeo-light/releases): Open source optical sound extraction software.
 - [Audacity](http://www.audacityteam.org/): Free open source digital audio workstation. Supports recording and editing of audio.
+- [Audiogrep](https://antiboredom.github.io/audiogrep/): Transcribes audio files and then creates "audio supercuts" based on search phrases. It uses [CMU Pocketsphinx](http://cmusphinx.sourceforge.net/) for speech-to-text and [pydub](http://pydub.com/) to stitch things together.
 - [BWF MetaEdit](http://bwfmetaedit.sourceforge.net/): Allows the embedding of BWF metadata in WAV files.
 - [Digital Media Log](https://github.com/RockefellerArchiveCenter/dm_log): A Rails app that uses ArchivesSpace's API to quickly inventory digital media items and log disk imaging.
-- [DCP-o-matic](https://dcpomatic.com/): A free, open-source program to create digital cinema packages (DCPs) from videos, images, sound and subtitle files. 
+- [DCP-o-matic](https://dcpomatic.com/): A free, open-source program to create digital cinema packages (DCPs) from videos, images, sound and subtitle files.
 - [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/): A Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files, with a focus on still image file formats.
+- [TheKeep](https://github.com/emory-libraries/TheKeep): A repository-based Django web application for managing digital surrogates or "masters" of archival (and other) source materials.
 - [MediaConch](https://github.com/MediaArea/MediaConch_SourceCode): Tool for quickly creating and comparing policies for digital media to ensure compliance with chosen standards.
 - [MediaInfo](https://mediaarea.net/en/MediaInfo): Essential tool for quick analysis of A/V file metadata.
 - [OpenDCP](http://opendcp.org/): A cross-platform application to create digital cinema packages (DCPs).
 - [QCTools](https://github.com/bavc/qctools): Enables extensive analysis of digitized video for quality control purposes.
+- [Videogrep](https://antiboredom.github.io/videogrep/): Searches through dialog in video files (using .srt subtitle tracks or pocketsphinx transcriptions) and makes supercuts based on what it finds.
 - [vrecord](https://github.com/amiaopensource/vrecord): Open source tool for analog video digitization. Includes a variety of virtual scopes. [Requires](https://github.com/amiaopensource/vrecord/blob/master/Resources/hardware.md) a computer running a recent macOS or Linux and Blackmagic hardware.
 - [XLD](http://tmkk.undo.jp/xld/index_e.html): Tool for lossless transcoding of various audio formats. Useful for error free CD ripping.
