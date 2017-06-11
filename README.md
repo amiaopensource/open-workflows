@@ -5,12 +5,16 @@ List of open workflows and resources for A/V archiving. Please contribute!
 If you have never contributed to GitHub before, [here is a guide](http://ablwr.github.io/blog/2014/11/04/non-technical-persons-guide-to-becoming-an-open-source-software-contributor-via-github/)! You can also [file an issue](https://github.com/amiaopensource/open-workflows/issues/new) (which is like filling out a form) and someone else will add it.
 
 Sibling repositories: [analog-inspection](https://github.com/amiaopensource/analog-inspection) && [time-based-media-art](https://github.com/amiaopensource/time-based-media-art)
+
 ## Contents
-1. [Documentation](#documentation)
-2. [Transfer Stations and Digitization Labs](#transfer-stations-and-digitization-labs)
-3. [Resources](#resources)
-4. [Scripts](#scripts)
-5. [Tools](#tools)
+
+- [Documentation](#documentation)
+- [Transfer Stations and Digitization Labs](#transfer-stations-and-digitization-labs)
+- [Resources](#resources)
+- [Scripts](#scripts)
+- [Tools](#tools)
+
+---
 
 ## Documentation
 
@@ -32,6 +36,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [York University Preservation Documentation](https://github.com/yorkulibraries/preservation_documentation): Version controlled draft versions of York University Libraries' digital preservation policy and documentation.  
 
 ## Transfer stations and digitization labs
+
 - [Brooklyn Public Library Info Commons](http://www.bklynlibrary.org/conversion)
 - [DC Public Library Memory Lab](http://libguides.dclibrary.org/memorylab): How to transfer formats (specific to their setup but applicable elsewhere).
 - [Indiana University Scholar Commons Digitization Lab](https://libraries.indiana.edu/scholars-commons-digitization-lab)
@@ -41,7 +46,6 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [UW Media Arcade](http://guides.lib.uw.edu/c.php?g=342258&p=2300599): A digital A/V makerspace that supports media creation, preservation and use.
 - [University of Wisconsin-Madison RADD](http://radd.dsalo.info/index.php/category/how-tos/) How-to guides to digitization.
 - [XFR Collective](https://github.com/XFRCollective)
-
 
 ## Resources
 
