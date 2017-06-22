@@ -62,6 +62,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [Matters in Media Art Assessment Workstation](http://mattersinmediaart.org/assessing-time-based-media-art.html#workstation)
 - [media-id-posters](https://github.com/ablwr/media-id-posters): Visualized summaries of physical objects for A/V archivists.
 - [No Time To Wait! Symposium](https://github.com/preforma/notimetowait): Documentation around conference including slides and videos on talks focused around Matroska and FFV1 workflows.
+- [NYU MIAP-The Patch Bay Blog](https://patchbaynyu.wordpress.com/nyu-miap/): All-around awesome resource from Ethan Gates of Cable Bible fame. Particularly useful entries on BagIt and upgrading Mac video digitization stations.
 - [QCTools Cheat Sheet](https://docs.google.com/document/d/1xat34KWmMwmz8lzXPUACItPdGFR_kBv43Vu6Qkeaov4/edit)
 - [UW Audio Preservation and Resoration Guide](http://guides.lib.uw.edu/research/AudioPreservation) Large aggregation of Audio resources with descriptions.
 
