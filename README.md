@@ -53,6 +53,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [analog-inspection](https://github.com/amiaopensource/analog-inspection): List of analog media inspection templates/forms.
 - [audio-digitization-toolkit](https://github.com/todrobbins/audio-digitization-toolkit): A list of resources for setting up an audio digitization workflow.
 - [A/V Artifact Atlas](https://bavc.github.io/avaa/): For use in the identification and definition of the technical issues and anomalies that can afflict audio and video signals.
+- [Building Audio, Video, and Data-Rescue Kits](https://radd.dsalo.info/wp-content/uploads/2017/10/BuildDocumentation.pdf): Guide for building portable kits for audio and video (A/V) and digital data rescue. From Dorothea Salo/iSchool at University of Wisconsin-Madison.
 - [cable-bible](https://github.com/amiaopensource/cable-bible): A guide to cables and connectors used for audiovisual tech.
 - [Cassette Decks: Buying Guide](https://www.cs.cmu.edu/~./gdead/taping-guide/part1.html)
 - [Cleaning Digibetas](https://bitbucket.co.uk/work/db_cleaning.html)
