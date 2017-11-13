@@ -57,7 +57,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [cable-bible](https://github.com/amiaopensource/cable-bible): A guide to cables and connectors used for audiovisual tech.
 - [Cassette Decks: Buying Guide](https://www.cs.cmu.edu/~./gdead/taping-guide/part1.html)
 - [Cleaning Digibetas](https://bitbucket.co.uk/work/db_cleaning.html)
-- [Community Owned digital Preservation Tool Registry (COPTR)](http://coptr.digipres.org/Main_Page): COPTR describes tools useful for long term digital presesrvation and acts primarily as a finding and evaluation tool to help practitioners find the tools they need to preserve digital data.
+- [Community Owned digital Preservation Tool Registry (COPTR)](http://coptr.digipres.org/Main_Page): COPTR describes tools useful for long term digital preservation and acts primarily as a finding and evaluation tool to help practitioners find the tools they need to preserve digital data.
 - [Digital POWRR Tool Grid 2.0](http://www.digipres.org/tools/ubergrid/): An ubergrid of tools useful in digital preservation, and their role in the preservation lifecycle.
 - [Libraries Sharing Code](https://wiki.code4lib.org/Libraries_Sharing_Code): Wiki list of libraries sharing their code on GitHub or on other open repositories.
 - [Matters in Media Art Assessment Workstation](http://mattersinmediaart.org/assessing-time-based-media-art.html#workstation)
@@ -66,7 +66,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [No Time To Wait! Symposium](https://github.com/preforma/notimetowait): Documentation around conference including slides and videos on talks focused around Matroska and FFV1 workflows.
 - [NYU MIAP-The Patch Bay Blog](https://patchbaynyu.wordpress.com/nyu-miap/): All-around awesome resource from Ethan Gates of Cable Bible fame. Particularly useful entries on BagIt and upgrading Mac video digitization stations.
 - [QCTools Cheat Sheet](https://docs.google.com/document/d/1xat34KWmMwmz8lzXPUACItPdGFR_kBv43Vu6Qkeaov4/edit)
-- [UW Audio Preservation and Resoration Guide](http://guides.lib.uw.edu/research/AudioPreservation) Large aggregation of Audio resources with descriptions.
+- [UW Audio Preservation and Restoration Guide](http://guides.lib.uw.edu/research/AudioPreservation) Large aggregation of Audio resources with descriptions.
 
 ## Scripts
 
