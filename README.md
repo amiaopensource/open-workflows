@@ -94,7 +94,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [Digital Media Log](https://github.com/RockefellerArchiveCenter/dm_log): A Rails app that uses ArchivesSpace's API to quickly inventory digital media items and log disk imaging.
 - [DCP-o-matic](https://dcpomatic.com/): A free, open-source program to create digital cinema packages (DCPs) from videos, images, sound and subtitle files.
 - [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/): A Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files, with a focus on still image file formats.
-- [forced-alignment-tools](https://github.com/pettarin/forced-alignment-tools): A collection of links and notes on forced alignment tools
+- [forced-alignment-tools](https://github.com/pettarin/forced-alignment-tools): A collection of links and notes on forced alignment tools.
 - [iromlab](https://github.com/KBNLresearch/iromlab): Loader software for automated imaging of optical media with Nimbie disc robot.
 - [TheKeep](https://github.com/emory-libraries/TheKeep): A repository-based Django web application for managing digital surrogates or "masters" of archival (and other) source materials.
 - [MediaConch](https://github.com/MediaArea/MediaConch_SourceCode): Tool for quickly creating and comparing policies for digital media to ensure compliance with chosen standards.
