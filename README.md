@@ -91,6 +91,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [Audacity](http://www.audacityteam.org/): Free open source digital audio workstation. Supports recording and editing of audio.
 - [Audiogrep](https://antiboredom.github.io/audiogrep/): Transcribes audio files and then creates "audio supercuts" based on search phrases. It uses [CMU Pocketsphinx](http://cmusphinx.sourceforge.net/) for speech-to-text and [pydub](http://pydub.com/) to stitch things together.
 - [BWF MetaEdit](http://bwfmetaedit.sourceforge.net/): Allows the embedding of BWF metadata in WAV files.
+- [ClairMeta](https://github.com/Ymagis/ClairMeta): a python package for Digital Cinema Package (DCP) probing and checking.
 - [Digital Media Log](https://github.com/RockefellerArchiveCenter/dm_log): A Rails app that uses ArchivesSpace's API to quickly inventory digital media items and log disk imaging.
 - [DCP-o-matic](https://dcpomatic.com/): A free, open-source program to create digital cinema packages (DCPs) from videos, images, sound and subtitle files.
 - [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/): A Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of files, with a focus on still image file formats.
