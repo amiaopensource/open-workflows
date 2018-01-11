@@ -69,6 +69,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [No Time To Wait! Symposium #2](https://mediaarea.net/MediaConch/notimetowait2.html): Conference website.
 - [The Patch Bay Blog](https://patchbaytech.wordpress.com/): All-around awesome resource from Ethan Gates of Cable Bible fame. Particularly useful entries on BagIt and upgrading Mac video digitization stations.
 - [QCTools Cheat Sheet](https://docs.google.com/document/d/1xat34KWmMwmz8lzXPUACItPdGFR_kBv43Vu6Qkeaov4/edit)
+- [Sustainable Heritage Network](http://sustainableheritagenetwork.org/): Collection of workflows, instructional resources and guides with a particular focus on aiding indigenous communities with preserving their cultural heritage. Created by the Center for Digital Scholarship and Curation at Washington State University.
 - [UW Audio Preservation and Restoration Guide](http://guides.lib.uw.edu/research/AudioPreservation): Large aggregation of Audio resources with descriptions.
 
 ## Scripts
