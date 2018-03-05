@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/72684376.svg)](https://zenodo.org/badge/latestdoi/72684376)
+
 # open-workflows
 
 List of open workflows and resources for A/V archiving. Please contribute!  
