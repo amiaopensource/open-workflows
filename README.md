@@ -15,6 +15,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [Resources](#resources)
 - [Scripts](#scripts)
 - [Tools](#tools)
+- [Publications](#publications)
 
 ---
 
@@ -111,3 +112,11 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [Videogrep](https://antiboredom.github.io/videogrep/): Searches through dialog in video files (using .srt subtitle tracks or pocketsphinx transcriptions) and makes supercuts based on what it finds.
 - [vrecord](https://github.com/amiaopensource/vrecord): Open source tool for analog video digitization. Includes a variety of virtual scopes. [Requires](https://github.com/amiaopensource/vrecord/blob/master/Resources/hardware.md) a computer running a recent macOS and Blackmagic hardware.
 - [XLD](http://tmkk.undo.jp/xld/index_e.html): Tool for lossless transcoding of various audio formats. Useful for error free CD ripping.
+
+## Publications
+
+- [ARSC Guide](https://www.clir.org/wp-content/uploads/sites/6/pub164.pdf): "The ARSC Guide to Audio Preservation is a practical introduction to caring for and preserving audio collections. It is aimed at individuals and institutions that have recorded sound collections but lack the expertise in one or more areas to preserve them."
+- [Describing Archives: A Content Standard (DACS)](http://files.archivists.org/pubs/DACS2E-2013_v0315.pdf): Guide to DACS, a commonly used set of rules for the description of archival materials.
+- IASA Publications: Comprehensive works by the International Association of Sound and Audiovisual Archives (IASA). [TC-03](http://www.iasa-web.org/tc03/ethics-principles-preservation-strategy) Safeguarding the Audio Heritage: Ethics, Principles and Preservation Strategy, [TC-04](http://www.iasa-web.org/tc04/audio-preservation) Guidelines on the Production and Preservation of Digital Audio Objects, [TC-05](http://www.iasa-web.org/handling-storage-tc05) Handling and Storage of Audio and Video Carriers.
+- [Sound Directions](http://www.dlib.indiana.edu/projects/sounddirections/papersPresent/sd_bp_07.pdf): An overview of audio preservation and digitization workflows developed at Harvard and Indiana University. Includes examples of BWF metadata profiles.
+- [The Video Guide](http://videopreservation.conservation-us.org/vid_guide/index.html): Good primary source for analog video and related technology. Originally published in 1981, permission [was granted by author](http://videopreservation.conservation-us.org/vid_guide/about.html) for free access/distribution.
