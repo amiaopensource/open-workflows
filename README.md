@@ -72,7 +72,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [Nederlands Instituut voor Beeld en Geluid Winter School 2017](https://www.youtube.com/watch?v=L_Oom6ggdxo&index=1&list=PL5X5Uv5arwuMH9BmGFXp9GMT2UPN1vxtt): Talks featuring explanations of workflows from Tate, WITNESS, and other organizations from the Sound & Vision Winter School for Audiovisual Archiving program.
 - [No Time To Wait! Symposium #1](https://github.com/preforma/notimetowait): Documentation around conference including slides and videos on talks focused around Matroska and FFV1 workflows.
 - [No Time To Wait! Symposium #2](https://mediaarea.net/MediaConch/notimetowait2.html): Conference website.
-- [The Patch Bay Blog](https://patchbaytech.wordpress.com/): All-around awesome resource from Ethan Gates of Cable Bible fame. Particularly useful entries on BagIt and upgrading Mac video digitization stations.
+- [The Patch Bay Blog](https://patchbay.tech/): All-around awesome resource from Ethan Gates of Cable Bible fame. Particularly useful entries on BagIt and upgrading Mac video digitization stations.
 - [QCTools Cheat Sheet](https://docs.google.com/document/d/1xat34KWmMwmz8lzXPUACItPdGFR_kBv43Vu6Qkeaov4/edit)
 - [Sustainable Heritage Network](http://sustainableheritagenetwork.org/): Collection of workflows, instructional resources and guides with a particular focus on aiding indigenous communities with preserving their cultural heritage. Created by the Center for Digital Scholarship and Curation at Washington State University.
 - [UW Audio Preservation and Restoration Guide](http://guides.lib.uw.edu/research/AudioPreservation): Large aggregation of Audio resources with descriptions.
