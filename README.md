@@ -25,6 +25,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [Archivematica Development Wiki](https://wiki.archivematica.org/Main_Page)
 - [Collective Access Community: Guides and Workflows](http://collectiveaccesscommunity.org/category/guides/)
 - [Digital Processing, Bentley Historical Library](https://sites.google.com/a/umich.edu/bhl-archival-curation/processing-archival-collections/08-digital-processing): Workflow for ingesting digital objects at the Bentley Historical Library.
+- [Educopia Institute - OSSArcFlow](https://educopia.org/research/ossarcflow): Published research and "as is" workflows for preservation from multiple institutions.
 - [Format Migrations at Harvard](http://blogs.loc.gov/thesignal/2015/04/format-migrations-at-harvard-library-an-ndsr-project-update/)
 - [Indigitization](http://www.indigitization.ca/indigitization-toolkit/introduction/): A 'toolkit' of workflows focused on supporting First Nations communities' digitization of cultural resources. Contains detailed walkthroughs for cassette digitization as well as metadata best practices.
 - [Library Workflow Exchange](http://www.libraryworkflowexchange.org/): A site designed to help librarians share workflows and best practices across institutions.
