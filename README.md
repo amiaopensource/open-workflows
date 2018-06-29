@@ -110,7 +110,6 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [TheKeep](https://github.com/emory-libraries/TheKeep): A repository-based Django web application for managing digital surrogates or "masters" of archival (and other) source materials.
 - [MediaConch](https://github.com/MediaArea/MediaConch_SourceCode): Tool for quickly creating and comparing policies for digital media to ensure compliance with chosen standards.
 - [MediaInfo](https://mediaarea.net/en/MediaInfo): Essential tool for quick analysis of A/V file metadata.
-- [OpenDCP](http://opendcp.org/): A cross-platform application to create digital cinema packages (DCPs).
 - [QCTools](https://github.com/bavc/qctools): Enables extensive analysis of digitized video for quality control purposes.
 - [Videogrep](https://antiboredom.github.io/videogrep/): Searches through dialog in video files (using .srt subtitle tracks or pocketsphinx transcriptions) and makes supercuts based on what it finds.
 - [vrecord](https://github.com/amiaopensource/vrecord): Open source tool for analog video digitization. Includes a variety of virtual scopes. [Requires](https://github.com/amiaopensource/vrecord/blob/master/Resources/hardware.md) a computer running a recent macOS and Blackmagic hardware.
