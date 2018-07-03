@@ -100,6 +100,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [AEO-Light 2](https://github.com/usc-imi/aeo-light/releases): Open source optical sound extraction software.
 - [Audacity](http://www.audacityteam.org/): Free open source digital audio workstation. Supports recording and editing of audio.
 - [Audiogrep](https://antiboredom.github.io/audiogrep/): Transcribes audio files and then creates "audio supercuts" based on search phrases. It uses [CMU Pocketsphinx](http://cmusphinx.sourceforge.net/) for speech-to-text and [pydub](http://pydub.com/) to stitch things together.
+- [Aurora](https://github.com/RockefellerArchiveCenter/aurora): Aurora is a Django web application that can receive, virus check and validate transfers of digital archival records, and allows archivists to appraise and accession those records.  
 - [BWF MetaEdit](https://mediaarea.net/BWFMetaEdit): Allows the embedding of BWF metadata in WAV files.
 - [ClairMeta](https://github.com/Ymagis/ClairMeta): a python package for Digital Cinema Package (DCP) probing and checking.
 - [Digital Media Log](https://github.com/RockefellerArchiveCenter/dm_log): A Rails app that uses ArchivesSpace's API to quickly inventory digital media items and log disk imaging.
