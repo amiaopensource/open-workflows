@@ -28,7 +28,9 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [Digital Processing, Bentley Historical Library](https://sites.google.com/a/umich.edu/bhl-archival-curation/processing-archival-collections/08-digital-processing): Workflow for ingesting digital objects at the Bentley Historical Library.
 - [Educopia Institute - OSSArcFlow](https://educopia.org/research/ossarcflow): Published research and "as is" workflows for preservation from multiple institutions.
 - [Format Migrations at Harvard](http://blogs.loc.gov/thesignal/2015/04/format-migrations-at-harvard-library-an-ndsr-project-update/)
+- [Homewood Phototography NDSR Final Report](https://github.com/jhu-archives-and-manuscripts/homewood-photo/blob/master/HomewoodPhoto_NDSR_FinalReport.pdf)
 - [Indigitization](http://www.indigitization.ca/indigitization-toolkit/introduction/): A 'toolkit' of workflows focused on supporting First Nations communities' digitization of cultural resources. Contains detailed walkthroughs for cassette digitization as well as metadata best practices.
+- [Invisible Defaults and Perceived Limitations: Processing the Juan Gelman Files](https://medium.com/on-archivy/invisible-defaults-and-perceived-limitations-processing-the-juan-gelman-files-4187fdd36759)
 - [Library Workflow Exchange](http://www.libraryworkflowexchange.org/): A site designed to help librarians share workflows and best practices across institutions.
 - [Louisiana Public Broadcasting Digital Preservation Plan](https://aapbndsr.files.wordpress.com/2017/03/lpb_digital_preservation_plan_aapb_ndsr.pdf): Document summarising LPB's digital preservation practices, policies, and responsibilities. (PDF)
 - [NYPL ami-specifications](https://github.com/nypl/ami-specifications): A repository for NYPL's digital asset technical specifications (audio, moving image, and more).
