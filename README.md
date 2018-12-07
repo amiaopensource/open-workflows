@@ -35,6 +35,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [Louisiana Public Broadcasting Digital Preservation Plan](https://aapbndsr.files.wordpress.com/2017/03/lpb_digital_preservation_plan_aapb_ndsr.pdf): Document summarising LPB's digital preservation practices, policies, and responsibilities. (PDF)
 - [NYPL ami-specifications](https://github.com/nypl/ami-specifications): A repository for NYPL's digital asset technical specifications (audio, moving image, and more).
 - [NYPL media-ingest workflow](https://nypl.github.io/repo-docs/media-ingest.html): Workflow for NYPL media ingest process.
+- [PBCore Audiovisual Tricks](http://pbcore.org/2018/11/28/pbcore-audiovisual-tricks.html): Scripts for PBCore-based preservation workflows.
 - [Personal Digital Archiving Day Kit](http://www.digitalpreservation.gov/personalarchiving/padKit/index.html): Robust documentation around organizing and hosting a Personal Archiving Day, including A/V resources.
 - [UCLA Metadata Quality Control Workflow](https://www.library.ucla.edu/sites/default/files/Guidelines_MetadataQualityControl.pdf): (PDF)
 - [UCLA International Digital Ephemera Project (IDEP) Toolkit](https://uclalibrary.github.io/ideptoolkit/): A super slick, multi-lingual guide to various audiovisual digitization workflows. Particular strengths include: DV, lacquer discs, and 1/4" open reel. 
