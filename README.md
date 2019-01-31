@@ -33,6 +33,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [Invisible Defaults and Perceived Limitations: Processing the Juan Gelman Files](https://medium.com/on-archivy/invisible-defaults-and-perceived-limitations-processing-the-juan-gelman-files-4187fdd36759)
 - [Library Workflow Exchange](http://www.libraryworkflowexchange.org/): A site designed to help librarians share workflows and best practices across institutions.
 - [Louisiana Public Broadcasting Digital Preservation Plan](https://aapbndsr.files.wordpress.com/2017/03/lpb_digital_preservation_plan_aapb_ndsr.pdf): Document summarising LPB's digital preservation practices, policies, and responsibilities. (PDF)
+- [National Libary of the Netherlands: Roll the tape – recovering ’90s data tapes in BitCurator](http://openpreservation.org/blog/2019/01/31/roll-the-tape-recovering-90s-data-tapes-in-bitcurator/)
 - [NYPL ami-specifications](https://github.com/nypl/ami-specifications): A repository for NYPL's digital asset technical specifications (audio, moving image, and more).
 - [NYPL media-ingest workflow](https://nypl.github.io/repo-docs/media-ingest.html): Workflow for NYPL media ingest process.
 - [PBCore Audiovisual Tricks](http://pbcore.org/2018/11/28/pbcore-audiovisual-tricks.html): Scripts for PBCore-based preservation workflows.
