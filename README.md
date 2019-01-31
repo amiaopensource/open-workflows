@@ -119,6 +119,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [MediaConch](https://github.com/MediaArea/MediaConch_SourceCode): Tool for quickly creating and comparing policies for digital media to ensure compliance with chosen standards.
 - [MediaInfo](https://mediaarea.net/en/MediaInfo): Essential tool for quick analysis of A/V file metadata.
 - [QCTools](https://github.com/bavc/qctools): Enables extensive analysis of digitized video for quality control purposes.
+- [reel time](https://kfrn.github.io/reel-time/): Tool to calculate the duration of open-reel audio.
 - [Videogrep](https://antiboredom.github.io/videogrep/): Searches through dialog in video files (using .srt subtitle tracks or pocketsphinx transcriptions) and makes supercuts based on what it finds.
 - [vrecord](https://github.com/amiaopensource/vrecord): Open source tool for analog video digitization. Includes a variety of virtual scopes. [Requires](https://github.com/amiaopensource/vrecord/blob/master/Resources/hardware.md) a computer running a recent macOS and Blackmagic hardware.
 - [XLD](http://tmkk.undo.jp/xld/index_e.html): Tool for lossless transcoding of various audio formats. Useful for error free CD ripping.
