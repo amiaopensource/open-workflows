@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/72684376.svg)](https://zenodo.org/badge/latestdoi/72684376)
+[![DOI](https://zenodo.org/badge/72684376.svg)](https://zenodo.org/badge/latestdoi/72684376) [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 # open-workflows
 
@@ -16,7 +16,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [Scripts](#scripts)
 - [Tools](#tools)
 - [Publications](#publications)
-
+- [Administrative metadata](#administrative-metadata)
 ---
 
 ## Documentation
@@ -133,3 +133,28 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [Sound Directions](http://www.dlib.indiana.edu/projects/sounddirections/papersPresent/sd_bp_07.pdf): An overview of audio preservation and digitization workflows developed at Harvard and Indiana University. Includes examples of BWF metadata profiles.
 - [The Video Guide](http://videopreservation.conservation-us.org/vid_guide/index.html): Good primary source for analog video and related technology. Originally published in 1981, permission [was granted by author](http://videopreservation.conservation-us.org/vid_guide/about.html) for free access/distribution.
 - [UC Guidelines for Born-Digital Archival Description](https://github.com/uc-borndigital-ckg/uc-guidelines): A University of California-wide descriptive standard for born-digital archival material. 
+
+## Administrative metadata
+
+### Maintainers 
+
+For help contributing to this repository or other issues, please contact [Ashley Blewer](https://ashleyblewer.com).
+
+### Code of Conduct
+
+Actions taken in this repository, associated pull requests and issue tracker forms should adhere to the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/1/4/code-of-conduct) guidelines.
+
+### Copyright
+
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="https://licensebuttons.net/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <a rel="dct:publisher"
+     href="https://github.com/amiaopensource/open-workflows">https://github.com/amiaopensource/open-workflows</a>
+  has waived all copyright and related or neighboring rights to
+  <span property="dct:title">open-workflows</span>.
+</p>
