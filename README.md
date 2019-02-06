@@ -139,7 +139,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 
 ### Maintainers 
 
-For help contributing to this repository or other issues, please contact [Ashley Blewer](https://ashleyblewer.com).
+For help contributing to this repository or other issues, please contact [Ashley Blewer](https://ashleyblewer.com) ([@ablwr](https://github.com/ablwr)) or [Tod Robbins](https://todrobbins.com/) ([@todrobbins](https://github.com/todrobbins)).
 
 ### Code of Conduct
 
