@@ -98,7 +98,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [National Library of New Zealand (NLNZ)](https://github.com/NLNZDigitalPreservation): Scripts for generating METS records, Rosetta-compliant SIPs, etc.
 - [New York Times video microservices](https://open.blogs.nytimes.com/2016/11/01/using-microservices-to-encode-and-publish-videos-at-the-new-york-times/): Documentation and links to services scripts.
 - [NYPL ami-tools](https://github.com/nypl/ami-tools): Python3 scripts and classes to help with managing bags of NYPL AMI files.
-- [Puget Sound and Vision Audio Scripts](https://github.com/pugetsoundandvision/audiotools): Bash scripts/documentation used at University of Washington for moving from a digitized WAV file to a package including BWF, TIFFs and derivatives.
+- [Puget Sound and Vision Scripts](https://github.com/pugetsoundandvision/audiotools): Scripts/documentation used at University of Washington and MIPoPS for automated generation of AIPs containing derivatives and pertinent metadata (preservation and technical). Also contains scripts supporting LTO storgage workflows.
 - [Rockefeller Archive Center Transfer Workflow](https://github.com/RockefellerArchiveCenter/transfer_workflow): Digital media inventory and transfer workflow documentation.
 - [ucsb-src-microservices](https://github.com/brnco/ucsb-src-microservices): Post-processing scripts we use at UCSB Special Research Collections AVLab.
 - [U.S. National Archives](https://github.com/usnationalarchives)
