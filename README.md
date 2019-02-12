@@ -123,6 +123,8 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [MediaInfo](https://mediaarea.net/en/MediaInfo): Essential tool for quick analysis of A/V file metadata.
 - [QCTools](https://github.com/bavc/qctools): Enables extensive analysis of digitized video for quality control purposes.
 - [reel time](https://kfrn.github.io/reel-time/): Tool to calculate the duration of open-reel audio.
+- [salvagedv.py](https://web.archive.org/web/20140721200707/http://kinodv.org/article/view/182/1/11/): Scans an input (such as a broken file) for apparent DV frames and extracts them into a new DV file.
+- [untrunc](https://github.com/ponchio/untrunc): Tool to attempt repair of truncated mp4/mov files. Works by analyzing a similar known good file (such as from the same camera) and attempting to reconstruct metadata in broken file.
 - [Videogrep](https://antiboredom.github.io/videogrep/): Searches through dialog in video files (using .srt subtitle tracks or pocketsphinx transcriptions) and makes supercuts based on what it finds.
 - [vrecord](https://github.com/amiaopensource/vrecord): Open source tool for analog video digitization. Includes a variety of virtual scopes. [Requires](https://github.com/amiaopensource/vrecord/blob/master/Resources/hardware.md) a computer running a recent macOS and Blackmagic hardware.
 - [XLD](https://tmkk.undo.jp/xld/index_e.html): Tool for lossless transcoding of various audio formats. Useful for error free CD ripping.
