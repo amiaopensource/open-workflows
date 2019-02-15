@@ -100,7 +100,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [National Library of New Zealand (NLNZ)](https://github.com/NLNZDigitalPreservation): Scripts for generating METS records, Rosetta-compliant SIPs, etc.
 - [New York Times video microservices](https://open.blogs.nytimes.com/2016/11/01/using-microservices-to-encode-and-publish-videos-at-the-new-york-times/): Documentation and links to services scripts.
 - [NYPL ami-tools](https://github.com/nypl/ami-tools): Python3 scripts and classes to help with managing bags of NYPL AMI files.
-- [Puget Sound and Vision Audio Scripts](https://github.com/pugetsoundandvision/audiotools): Bash scripts/documentation used at University of Washington for moving from a digitized WAV file to a package including BWF, TIFFs and derivatives.
+- [Puget Sound and Vision Scripts](https://github.com/pugetsoundandvision/audiotools): Scripts/documentation used at University of Washington and MIPoPS for automated generation of AIPs containing derivatives and pertinent metadata (preservation and technical). Also contains scripts supporting LTO storage workflows.
 - [Rockefeller Archive Center Transfer Workflow](https://github.com/RockefellerArchiveCenter/transfer_workflow): Digital media inventory and transfer workflow documentation.
 - [ucsb-src-microservices](https://github.com/brnco/ucsb-src-microservices): Post-processing scripts we use at UCSB Special Research Collections AVLab.
 - [U.S. National Archives](https://github.com/usnationalarchives)
@@ -125,6 +125,8 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [MediaInfo](https://mediaarea.net/en/MediaInfo): Essential tool for quick analysis of A/V file metadata.
 - [QCTools](https://github.com/bavc/qctools): Enables extensive analysis of digitized video for quality control purposes.
 - [reel time](https://kfrn.github.io/reel-time/): Tool to calculate the duration of open-reel audio.
+- [salvagedv.py](https://web.archive.org/web/20140721200707/http://kinodv.org/article/view/182/1/11/): Scans an input (such as a broken file) for apparent DV frames and extracts them into a new DV file.
+- [untrunc](https://github.com/ponchio/untrunc): Tool to attempt repair of truncated MP4/MOV files. Works by analyzing a similar known good file (such as from the same camera) and attempting to reconstruct metadata in broken file.
 - [Videogrep](https://antiboredom.github.io/videogrep/): Searches through dialog in video files (using .srt subtitle tracks or pocketsphinx transcriptions) and makes supercuts based on what it finds.
 - [vrecord](https://github.com/amiaopensource/vrecord): Open source tool for analog video digitization. Includes a variety of virtual scopes. [Requires](https://github.com/amiaopensource/vrecord/blob/master/Resources/hardware.md) a computer running a recent macOS and Blackmagic hardware.
 - [XLD](https://tmkk.undo.jp/xld/index_e.html): Tool for lossless transcoding of various audio formats. Useful for error free CD ripping.
