@@ -64,6 +64,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 ## Resources
 
 - [analog-inspection](https://github.com/amiaopensource/analog-inspection): List of analog media inspection templates/forms.
+- [awesome-tdr](https://github.com/peterVG/awesome-tdr): "Awesome list" for organizations with Trusted Digital Repository status and their audit reports.
 - [audio-digitization-toolkit](https://github.com/todrobbins/audio-digitization-toolkit): A list of resources for setting up an audio digitization workflow.
 - [avpres-training](https://training.ashleyblewer.com/): Educational slidedecks on various audiovisual preservation topics by Ashley Blewer.
 - [A/V Artifact Atlas](https://bavc.github.io/avaa/): For use in the identification and definition of the technical issues and anomalies that can afflict audio and video signals.
