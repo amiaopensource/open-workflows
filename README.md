@@ -134,6 +134,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 
 ## Publications
 
+- [A Guide to Approaching Audiovisual Digitization for Artists and Arts and Culture Organizations](https://bavc.org/sites/default/files/wysiwyg-uploaded/BAVC_Guide_To_Audiovisual_Preservation_2019_0.pdf) by Morgan Oscar Morel, Bay Area Video Coalition (BAVC).
 - [ARSC Guide](https://www.clir.org/wp-content/uploads/sites/6/pub164.pdf): "The ARSC Guide to Audio Preservation is a practical introduction to caring for and preserving audio collections. It is aimed at individuals and institutions that have recorded sound collections but lack the expertise in one or more areas to preserve them."
 - [Describing Archives: A Content Standard (DACS)](http://files.archivists.org/pubs/DACS2E-2013_v0315.pdf): Guide to DACS, a commonly used set of rules for the description of archival materials.
 - [DV-based video cassettes: Draft technical specifications for the transfer to files](https://viaa.be/files/attachments/.1447/Technical_specifications_DV_cassettes_transfer_v1_0.pdf) [PDF]: Documentation on transfer of DV video on analog carriers by [VIAA](https://viaa.be/en) and [AV-RD](https://www.av-rd.com/)
