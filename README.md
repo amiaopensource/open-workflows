@@ -98,6 +98,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [FFmpeg Cookbook for Archivists](https://avpres.net/FFmpeg/)
 - [ffmprovisr](https://github.com/amiaopensource/ffmprovisr): Repository of useful FFmpeg command lines for archivists!
 - [IFIscripts](https://github.com/kieranjol/IFIscripts): Scripts for video/DCP/image sequences/fixity for use in the IFI Irish Film Archive.
+- [MACEscripts](https://github.com/digitensions/MACEscripts): Scripts for video transcoding and other tasks by MACE, the Media Archive for Central England.
 - [National Library of New Zealand (NLNZ)](https://github.com/NLNZDigitalPreservation): Scripts for generating METS records, Rosetta-compliant SIPs, etc.
 - [New York Times video microservices](https://open.blogs.nytimes.com/2016/11/01/using-microservices-to-encode-and-publish-videos-at-the-new-york-times/): Documentation and links to services scripts.
 - [NYPL ami-tools](https://github.com/nypl/ami-tools): Python3 scripts and classes to help with managing bags of NYPL AMI files.
