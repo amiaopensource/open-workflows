@@ -22,7 +22,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 ## Documentation
 
 - [Andy Warhol Museum Digital Strategy](https://github.com/thewarholmuseum/digital-strategy/): A versioned digital strategy repository for The Andy Warhol Museum.
-- [Archivematica Development Wiki](https://wiki.archivematica.org/Main_Page)
+- [archivematica-case-studies](https://github.com/archivematica/archivematica-case-studies): Collection of resources, papers, blog posts, and other documentation around working on and with Archivematica.
 - [CCA Digital Archives Processing Manual](https://github.com/CCA-Public/digital-archives-manual): The Canadian Centre for Architecture Digital Archives Processing Manual "covers each step of the processing process, including capture of data, arrangement, description, ingest into our Archivematica-based digital repository, and access. It includes general policies and procedures as well as specific information about tools used in this process."
 - [Collective Access Community: Guides and Workflows](http://collectiveaccesscommunity.org/category/guides/)
 - [Community Owned Workflows (COW)](http://coptr.digipres.org/Workflow:Community_Owned_Workflows)
