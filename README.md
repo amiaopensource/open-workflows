@@ -27,6 +27,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [Collective Access Community: Guides and Workflows](http://collectiveaccesscommunity.org/category/guides/)
 - [Community Owned Workflows (COW)](http://coptr.digipres.org/Workflow:Community_Owned_Workflows)
 - [Digital Processing, Bentley Historical Library](https://sites.google.com/a/umich.edu/bhl-archival-curation/processing-archival-collections/08-digital-processing): Workflow for ingesting digital objects at the Bentley Historical Library.
+- [DPX preservation workflow with RAWcooked and fixity checking](https://digitensions.home.blog/2019/11/08/dpx-preservation-workflow/)
 - [Educopia Institute - OSSArcFlow](https://educopia.org/research/ossarcflow): Published research and "as is" workflows for preservation from multiple institutions.
 - [Experiences of an LTO/LTFS beginner](https://digitensions.home.blog/2019/01/15/technologic/): Elaborate blog post by Joanna White on her "LTO journey."
 - [Format Migrations at Harvard](http://blogs.loc.gov/thesignal/2015/04/format-migrations-at-harvard-library-an-ndsr-project-update/)
