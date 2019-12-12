@@ -26,6 +26,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [CCA Digital Archives Processing Manual](https://github.com/CCA-Public/digital-archives-manual): The Canadian Centre for Architecture Digital Archives Processing Manual "covers each step of the processing process, including capture of data, arrangement, description, ingest into our Archivematica-based digital repository, and access. It includes general policies and procedures as well as specific information about tools used in this process."
 - [Collective Access Community: Guides and Workflows](http://collectiveaccesscommunity.org/category/guides/)
 - [Community Owned Workflows (COW)](http://coptr.digipres.org/Workflow:Community_Owned_Workflows)
+- [Converting FFV1/MKV to v210/MOV](https://bavc.org/blog/converting-ffv1mkv-v210mov)
 - [Digital Processing, Bentley Historical Library](https://sites.google.com/a/umich.edu/bhl-archival-curation/processing-archival-collections/08-digital-processing): Workflow for ingesting digital objects at the Bentley Historical Library.
 - [DPX preservation workflow with RAWcooked and fixity checking](https://digitensions.home.blog/2019/11/08/dpx-preservation-workflow/)
 - [Educopia Institute - OSSArcFlow](https://educopia.org/research/ossarcflow): Published research and "as is" workflows for preservation from multiple institutions.
