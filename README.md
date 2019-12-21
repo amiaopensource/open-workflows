@@ -30,7 +30,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [Educopia Institute - OSSArcFlow](https://educopia.org/research/ossarcflow): Published research and "as is" workflows for preservation from multiple institutions.
 - [Experiences of an LTO/LTFS beginner](https://digitensions.home.blog/2019/01/15/technologic/): Elaborate blog post by Joanna White on her "LTO journey."
 - [Format Migrations at Harvard](http://blogs.loc.gov/thesignal/2015/04/format-migrations-at-harvard-library-an-ndsr-project-update/)
-- [Homewood Photography NDSR Final Report](https://github.com/jhu-archives-and-manuscripts/homewood-photo/blob/master/HomewoodPhoto_NDSR_FinalReport.pdf)
+- [Homewood Photography NDSR Final Report](https://github.com/jhu-archives-and-manuscripts/homewood-photo/blob/master/HomewoodPhoto_NDSR_FinalReport.pdf) (PDF)
 - [Indigitization](http://www.indigitization.ca/indigitization-toolkit/introduction/): A 'toolkit' of workflows focused on supporting First Nations communities' digitization of cultural resources. Contains detailed walkthroughs for cassette digitization as well as metadata best practices.
 - [Invisible Defaults and Perceived Limitations: Processing the Juan Gelman Files](https://medium.com/on-archivy/invisible-defaults-and-perceived-limitations-processing-the-juan-gelman-files-4187fdd36759)
 - [Library Workflow Exchange](http://www.libraryworkflowexchange.org/): A site designed to help librarians share workflows and best practices across institutions.
@@ -70,7 +70,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [audio-digitization-toolkit](https://github.com/todrobbins/audio-digitization-toolkit): A list of resources for setting up an audio digitization workflow.
 - [avpres-training](https://training.ashleyblewer.com/): Educational slidedecks on various audiovisual preservation topics by Ashley Blewer.
 - [A/V Artifact Atlas](https://bavc.github.io/avaa/): For use in the identification and definition of the technical issues and anomalies that can afflict audio and video signals.
-- [Building Audio, Video, and Data-Rescue Kits](https://radd.dsalo.info/wp-content/uploads/2017/10/BuildDocumentation.pdf): Guide for building portable kits for audio and video (A/V) and digital data rescue. From Dorothea Salo/iSchool at University of Wisconsin-Madison.
+- [Building Audio, Video, and Data-Rescue Kits](https://radd.dsalo.info/wp-content/uploads/2017/10/BuildDocumentation.pdf): Guide for building portable kits for audio and video (A/V) and digital data rescue. From Dorothea Salo/iSchool at University of Wisconsin-Madison. (PDF)
 - [cable-bible](https://github.com/amiaopensource/cable-bible): A guide to cables and connectors used for audiovisual tech.
 - [Cassette Decks: Buying Guide](https://www.cs.cmu.edu/~./gdead/taping-guide/part1.html)
 - [Cleaning Digibetas](https://bitbucket.co.uk/work/db_cleaning.html)
@@ -136,13 +136,13 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 
 ## Publications
 
-- [A Guide to Approaching Audiovisual Digitization for Artists and Arts and Culture Organizations](https://bavc.org/sites/default/files/wysiwyg-uploaded/BAVC_Guide_To_Audiovisual_Preservation_2019_0.pdf) by Morgan Oscar Morel, Bay Area Video Coalition (BAVC).
+- [A Guide to Approaching Audiovisual Digitization for Artists and Arts and Culture Organizations](https://bavc.org/sites/default/files/wysiwyg-uploaded/BAVC_Guide_To_Audiovisual_Preservation_2019_0.pdf) by Morgan Oscar Morel, Bay Area Video Coalition (BAVC). (PDF)
 - [ARSC Guide](https://www.clir.org/wp-content/uploads/sites/6/pub164.pdf): "The ARSC Guide to Audio Preservation is a practical introduction to caring for and preserving audio collections. It is aimed at individuals and institutions that have recorded sound collections but lack the expertise in one or more areas to preserve them."
-- [Describing Archives: A Content Standard (DACS)](http://files.archivists.org/pubs/DACS2E-2013_v0315.pdf): Guide to DACS, a commonly used set of rules for the description of archival materials.
-- [DV-based video cassettes: Draft technical specifications for the transfer to files](https://viaa.be/files/attachments/.1447/Technical_specifications_DV_cassettes_transfer_v1_0.pdf) [PDF]: Documentation on transfer of DV video on analog carriers by [VIAA](https://viaa.be/en) and [AV-RD](https://www.av-rd.com/)
+- [Describing Archives: A Content Standard (DACS)](http://files.archivists.org/pubs/DACS2E-2013_v0315.pdf): Guide to DACS, a commonly used set of rules for the description of archival materials. (PDF)
+- [DV-based video cassettes: Draft technical specifications for the transfer to files](https://viaa.be/files/attachments/.1447/Technical_specifications_DV_cassettes_transfer_v1_0.pdf) (PDF): Documentation on transfer of DV video on analog carriers by [VIAA](https://viaa.be/en) and [AV-RD](https://www.av-rd.com/)
 - IASA Publications: Comprehensive works by the International Association of Sound and Audiovisual Archives (IASA). [TC-03](https://www.iasa-web.org/tc03/ethics-principles-preservation-strategy) Safeguarding the Audio Heritage: Ethics, Principles and Preservation Strategy, [TC-04](https://www.iasa-web.org/tc04/audio-preservation) Guidelines on the Production and Preservation of Digital Audio Objects, [TC-05](https://www.iasa-web.org/handling-storage-tc05) Handling and Storage of Audio and Video Carriers.
 - Memoriav Recommendations: [Digital Archiving of Film and Video: Principles and Guidance](https://memoriav.ch/dafv/?lang=en) by Agathe Jarczyk, Reto Kromer, Yves Niederhäuser and David Pfluger.
-- [Sound Directions](https://www.dlib.indiana.edu/projects/sounddirections/papersPresent/sd_bp_07.pdf): An overview of audio preservation and digitization workflows developed at Harvard and Indiana University. Includes examples of BWF metadata profiles.
+- [Sound Directions](https://www.dlib.indiana.edu/projects/sounddirections/papersPresent/sd_bp_07.pdf): An overview of audio preservation and digitization workflows developed at Harvard and Indiana University. Includes examples of BWF metadata profiles. (PDF)
 - [The Video Guide](https://videopreservation.conservation-us.org/vid_guide/index.html): Good primary source for analog video and related technology. Originally published in 1981, permission [was granted by author](https://videopreservation.conservation-us.org/vid_guide/about.html) for free access/distribution.
 - [UC Guidelines for Born-Digital Archival Description](https://github.com/uc-borndigital-ckg/uc-guidelines): A University of California-wide descriptive standard for born-digital archival material. 
 
