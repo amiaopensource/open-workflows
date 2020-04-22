@@ -89,9 +89,10 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [Mediapedia: Physical Format Carrier Resource](https://mediapedia.nla.gov.au/): The Mediapedia resource is intended to enable the identification of various physical media carrier types for assisting with collection planning, assessment, documentation, infrastructure and preservation planning for the content they hold. 
 - [media-id-posters](https://github.com/ablwr/media-id-posters): Visualized summaries of physical objects for A/V archivists.
 - [Nederlands Instituut voor Beeld en Geluid Winter School 2017](https://www.youtube.com/watch?v=L_Oom6ggdxo&index=1&list=PL5X5Uv5arwuMH9BmGFXp9GMT2UPN1vxtt): Talks featuring explanations of workflows from Tate, WITNESS, and other organizations from the Sound & Vision Winter School for Audiovisual Archiving program.
-- [No Time To Wait! Symposium #1](https://github.com/preforma/notimetowait): Documentation around conference including slides and videos on talks focused around Matroska and FFV1 workflows.
-- [No Time To Wait! Symposium #2](https://mediaarea.net/MediaConch/notimetowait2.html): Conference website.
-- [No Time To Wait! Symposium #3](https://mediaarea.net/MediaConch/notimetowait3.html): Conference website.
+- [No Time To Wait! Symposium #1](https://mediaarea.net/NoTimeToWait1): Documentation around conference including slides and videos on talks focused around Matroska and FFV1 workflows.
+- [No Time To Wait! Symposium #2](https://mediaarea.net/NoTimeToWait2): Conference website.
+- [No Time To Wait! Symposium #3](https://mediaarea.net/NoTimeToWait3): Conference website.
+- [No Time To Wait! Symposium #4](https://mediaarea.net/NoTimeToWait4): Conference website.
 - [The Patch Bay Blog](https://patchbay.tech/): All-around awesome resource from Ethan Gates of Cable Bible fame. Particularly useful entries on BagIt and upgrading Mac video digitization stations.
 - [QCTools Cheat Sheet](https://docs.google.com/document/d/1xat34KWmMwmz8lzXPUACItPdGFR_kBv43Vu6Qkeaov4/edit)
 - [Sustainable Heritage Network](https://sustainableheritagenetwork.org/): Collection of workflows, instructional resources and guides with a particular focus on aiding indigenous communities with preserving their cultural heritage. Created by the Center for Digital Scholarship and Curation at Washington State University.
