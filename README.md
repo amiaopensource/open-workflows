@@ -27,6 +27,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [CCA Digital Archives Processing Manual](https://github.com/CCA-Public/digital-archives-manual): The Canadian Centre for Architecture Digital Archives Processing Manual "covers each step of the processing process, including capture of data, arrangement, description, ingest into our Archivematica-based digital repository, and access. It includes general policies and procedures as well as specific information about tools used in this process."
 - [Community Owned Workflows (COW)](http://coptr.digipres.org/Workflow:Community_Owned_Workflows)
 - [Converting FFV1/MKV to v210/MOV](https://bavc.org/blog/converting-ffv1mkv-v210mov)
+- [CUNY TV DAT Transfer Workflow](https://docs.google.com/document/d/1NfDFGw_dcmaFkGhHpqZAG6x0DsJ7vceisFcSLNa-Y4k/edit?usp=sharing): Workflow for transferring DAT tapes using DDS drives and editing created audio files using metadata error logs.
 - [Digital Processing, Bentley Historical Library](https://sites.google.com/a/umich.edu/bhl-archival-curation/processing-archival-collections/08-digital-processing): Workflow for ingesting digital objects at the Bentley Historical Library.
 - [DPX preservation workflow with RAWcooked and fixity checking](https://digitensions.home.blog/2019/11/08/dpx-preservation-workflow/)
 - [DPX: What Not To Do](http://eddycolloton.com/blog/2020/2/25/dpx-what-not-to-do): Workflow walkthrough by Hirshhorn time-based media conservator Eddy Colloton.
