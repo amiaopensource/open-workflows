@@ -32,6 +32,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [DPX preservation workflow with RAWcooked and fixity checking](https://digitensions.home.blog/2019/11/08/dpx-preservation-workflow/)
 - [DPX: What Not To Do](http://eddycolloton.com/blog/2020/2/25/dpx-what-not-to-do): Workflow walkthrough by Hirshhorn time-based media conservator Eddy Colloton.
 - [Educopia Institute - OSSArcFlow](https://educopia.org/research/ossarcflow): Published research and "as is" workflows for preservation from multiple institutions.
+- [Emory University: Building A Home Digitization Station](https://scholarblogs.emory.edu/woodruff/news/building-a-home-digitization-station): Written by AV Conservator Nina Rao.
 - [Experiences of an LTO/LTFS beginner](https://digitensions.home.blog/2019/01/15/technologic/): Elaborate blog post by Joanna White on her "LTO journey."
 - [Format Migrations at Harvard](http://blogs.loc.gov/thesignal/2015/04/format-migrations-at-harvard-library-an-ndsr-project-update/)
 - [Homewood Photography NDSR Final Report](https://github.com/jhu-archives-and-manuscripts/homewood-photo/blob/master/HomewoodPhoto_NDSR_FinalReport.pdf) (PDF)
