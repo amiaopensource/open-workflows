@@ -44,6 +44,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [National Libary of the Netherlands: Roll the tape – recovering ’90s data tapes in BitCurator](http://openpreservation.org/blog/2019/01/31/roll-the-tape-recovering-90s-data-tapes-in-bitcurator/)
 - [NYPL ami-specifications](https://github.com/nypl/ami-specifications): A repository for NYPL's digital asset technical specifications (audio, moving image, and more).
 - [NYPL media-ingest workflow](https://nypl.github.io/repo-docs/media-ingest.html): Workflow for NYPL media ingest process.
+0 [NYPL Spotlight on Audio and Moving Image Quality Control](https://www.nypl.org/blog/2020/06/08/audio-and-moving-image-quality-control): Workflow blog post written by Genevieve Havemeyer-King, Media Preservation Coordinator, Audio and Moving Image (AMI) Preservation Unit.
 - [An Optical Media Preservation Strategy for New York University’s Fales Library & Special Collections](https://archive.nyu.edu/handle/2451/43877): This report presents an overview of the diverse and unique difficulties posed by optical media, with recommendations and proposed workflows based on local specifications.
 - [PBCore Audiovisual Tricks](https://pbcore.org/2018/11/28/pbcore-audiovisual-tricks.html): Scripts for PBCore-based preservation workflows.
 - [Personal Digital Archiving Day Kit](http://www.digitalpreservation.gov/personalarchiving/padKit/index.html): Robust documentation around organizing and hosting a Personal Archiving Day, including A/V resources.
