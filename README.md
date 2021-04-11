@@ -23,6 +23,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 
 - [Andy Warhol Museum Digital Strategy](https://github.com/thewarholmuseum/digital-strategy/): A versioned digital strategy repository for The Andy Warhol Museum.
 - [archivematica-case-studies](https://github.com/archivematica/archivematica-case-studies): Collection of resources, papers, blog posts, and other documentation around working on and with Archivematica.
+- [Capturing and Archiving MiniDV Tapes on macOS](https://leolabs.org/blog/capture-minidv-on-macos): Blog post by Leo Bernard on archiving MiniDV.
 - [Carnegie Hall Web Archiving](https://carnegiehall.github.io/webarchiving/): "The Carnegie Hall Archives is researching and working on web archiving: identifying possible sites to capture as an expansion to the Carnegie Hall (CH) Digital Collections, establishing description practices, and reviewing access options."
 - [CCA Digital Archives Processing Manual](https://github.com/CCA-Public/digital-archives-manual): The Canadian Centre for Architecture Digital Archives Processing Manual "covers each step of the processing process, including capture of data, arrangement, description, ingest into our Archivematica-based digital repository, and access. It includes general policies and procedures as well as specific information about tools used in this process."
 - [Community Owned Workflows (COW)](http://coptr.digipres.org/Workflow:Community_Owned_Workflows)
