@@ -37,7 +37,7 @@ Sibling repositories: [analog-inspection](https://github.com/amiaopensource/anal
 - [Experiences of an LTO/LTFS beginner](https://digitensions.home.blog/2019/01/15/technologic/): Elaborate blog post by Joanna White on her "LTO journey."
 - [Format Migrations at Harvard](http://blogs.loc.gov/thesignal/2015/04/format-migrations-at-harvard-library-an-ndsr-project-update/)
 - [Homewood Photography NDSR Final Report](https://github.com/jhu-archives-and-manuscripts/homewood-photo/blob/master/HomewoodPhoto_NDSR_FinalReport.pdf) (PDF)
-- [Indigitization](http://www.indigitization.ca/indigitization-toolkit/introduction/): A 'toolkit' of workflows focused on supporting First Nations communities' digitization of cultural resources. Contains detailed walkthroughs for cassette digitization as well as metadata best practices.
+- [Indigitization](https://www.indigitization.ca/toolkit/): A 'toolkit' of workflows focused on supporting First Nations communities' digitization of cultural resources. Contains detailed walkthroughs for cassette digitization as well as metadata best practices.
 - [Invisible Defaults and Perceived Limitations: Processing the Juan Gelman Files](https://medium.com/on-archivy/invisible-defaults-and-perceived-limitations-processing-the-juan-gelman-files-4187fdd36759)
 - [Library Workflow Exchange](http://www.libraryworkflowexchange.org/): A site designed to help librarians share workflows and best practices across institutions.
 - [Living Content: Digitizing Magnetic Media at NLM](https://circulatingnow.nlm.nih.gov/2020/02/27/living-content-digitizing-magnetic-media-at-nlm/): Overview of film/video digitization initiatives from the (U.S.) National Library of Medicine.
